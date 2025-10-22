@@ -5,7 +5,7 @@ CitiLink-Minutes Dataset Subset Generator
 This script creates three subsets of the CitiLink-Minutes dataset:
 1. metadata: Contains only metadata annotations (participants, dates, locations, etc.)
 2. subjects_with_votings: Contains subjects with all annotations including voting records
-3. subjects_only: Contains only core subject annotations (start, end, subject_of_discussion, theme, topics)
+3. subjects_only: Contains only core subject annotations (start, end, subject, theme, topics)
 
 Usage:
     python create_subsets.py [input_file] [--output-dir OUTPUT_DIR]
@@ -56,7 +56,7 @@ def create_metadata_subset(data: Dict) -> Dict:
 
 def create_subjects_only_subset(data: Dict) -> Dict:
     """
-    Extract only core subject annotations (start, end, subject_of_discussion, theme, topics).
+    Extract only core subject annotations (start, end, subject, theme, topics).
     Removes voting information and full text content.
     """
     subset = {
@@ -87,7 +87,7 @@ def create_subjects_only_subset(data: Dict) -> Dict:
                         "subject_id": subject.get("subject_id"),
                         "start": subject.get("start"),
                         "end": subject.get("end"),
-                        "subject_of_discussion": subject.get("subject_of_discussion"),
+                        "subject": subject.get("subject"),
                         "theme": subject.get("theme"),
                         "topics": subject.get("topics", [])
                     }

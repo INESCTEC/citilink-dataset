@@ -61,14 +61,23 @@
           "metadata": {
             "municipality": "Porto",
             "year": "2021",
-            "minute_number": null,
+            "minute_number": {
+              "text": "2",
+              "start": 1,
+              "end": 2
+            },
             "date": {
               "text": "8 DE NOVEMBRO DE 2021",
               "start": 64,
               "end": 85
             },
             "location": null,
-            "meeting_type": null,
+            "meeting_type": {
+              "text": "PÚBLICA",
+              "start": 13,
+              "end": 20,
+              "type": "PÚBLICA"
+            },
             "begin_time": {
               "text": "10 HORAS",
               "start": 89,
@@ -179,6 +188,12 @@
                 "end": 613,
                 "party": "BE",
                 "present": "present"
+              },
+              {
+                "name": "***************",
+                "type": "staff",
+                "start": 656,
+                "end": 671
               }
             ]
           },

@@ -1,10 +1,10 @@
 # CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes
 
-**[Try our interactive Demo)](https://citilink.inesctec.pt/dataset-demo/)**
+**[Try our interactive Demo](https://citilink.inesctec.pt/dataset-demo/)**
 
 ## Description
 
-The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over 1.3 million tokens** with comprehensive multilayer annotations covering (1) **metadata**, (2) **subjects of discussion**, and (3) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
+The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over a million tokens** with comprehensive multilayer annotations covering (1) **metadata**, (2) **subjects of discussion**, and (3) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
 
 **What this project does:**
 This dataset provides researchers, data scientists, and civic tech developers with access to structured municipal governance data, enabling analysis of local government decision-making, voting patterns, policy discussions, and civic participation across different Portuguese municipalities.
@@ -25,21 +25,20 @@ This project is currently **completed and stable**. The dataset represents a sna
 
 ## Dataset Statistics
 
-| **Municipality** | **Tokens** | **Entities** | **Relations** | **Subjects** |
-|------------------|------------|--------------|---------------|--------------|
-| Alandroal        | 56,915     | 3,916        | 1,309         | 508          |
-| Campo Maior      | 143,017    | 4,993        | 1,122         | 398          |
-| Covilhã          | 300,487    | 6,122        | 2,192         | 721          |
-| Fundão           | 315,646    | 2,516        | 751           | 235          |
-| Guimarães        | 224,097    | 4,674        | 1,672         | 554          |
-| Porto            | 302,559    | 4,208        | 1,706         | 472          |
-| **Total**        | **1,342,721** | **26,429** | **8,752**     | **2,888**    |
+| **Municipality** | **Tokens** | **Entities** | **Relations** |
+|------------------|------------|--------------|---------------|
+| Alandroal        | 51,987     | 2,902        | 1,796         |
+| Campo Maior      | 161,889    | 4,187        | 1,474         |
+| Covilhã          | 235,381    | 4,518        | 2,585         |
+| Fundão           | 189,128    | 1,915        | 983           |
+| Guimarães        | 206,361    | 3,547        | 2,154         |
+| Porto            | 151,766    | 3,306        | 2,170         | 
+| **Total**        | **1,016,825** | **20,375** | **11,162**   |
 
 **Key Metrics:**
 - **Tokens**: Total number of words/tokens in meeting minutes
 - **Entities**: Annotated entities (participants, dates, locations, organizations, etc.)
 - **Relations**: Annotated relationships between entities (voting records, participations, etc.)
-- **Subjects**: Individual discussion subjects with themes and topics
 
 ## Dataset Structure
 
@@ -68,6 +67,11 @@ Each JSON file follows this hierarchical structure:
         {
           "minute_id": "string",        // Unique identifier (format: Municipality_cm_XXX_YYYY-MM-DD)
           "full_text": "string",          // Complete meeting minutes text
+          "personal_info": [
+            "text": "string",
+            "start": number,
+            "end": number
+          ],
           "metadata": {
             "municipality": "string",
             "year": "string",
@@ -123,7 +127,7 @@ Each JSON file follows this hierarchical structure:
                   "text": "string",       // Discussion text
                   "start": number,
                   "end": number,
-                  "subject_of_discussion": {
+                  "subject": {
                     "text": "string",
                     "start": number,
                     "end": number
@@ -179,6 +183,7 @@ The CitiLink-Minutes dataset is provided in JSON format.
 | `municipality` | Name of the municipality (e.g., "Alandroal", "Porto") |
 | `minute_id` | Unique identifier for each meeting minute (format: `Municipality_cm_XXX_YYYY-MM-DD`) |
 | `full_text` | Complete text of the meeting minutes. Format: utf-8, not tokenized, includes newlines |
+| `personal_info` | List of anonymised personal information identifiers |
 | `metadata` | Structured metadata containing meeting information (date, location, participants, etc.) |
 | `year` | Year of the meeting |
 | `minute_number` | Official minute number with character offsets in `full_text` |
@@ -200,7 +205,7 @@ The CitiLink-Minutes dataset is provided in JSON format.
 | `subjects` | List of discussion subjects within an agenda item |
 | `subject_id` | Unique identifier for the subject |
 | `text` | Full text of the subject discussion |
-| `subject_of_discussion` | Summary or key point of the subject with character offsets |
+| `subject` | Summary or key point of the subject with character offsets |
 | `voting` | List of voting records for the subject |
 | `voters` | Structured voting information (in_favor, against, abstention) |
 | `in_favor` | List of voters who voted in favor |
@@ -250,7 +255,7 @@ The complete dataset (120 municipal meeting minutes across 6 municipalities) is 
 
 **DOI:** [https://doi.org/10.25747/7KG6-1K22](https://doi.org/10.25747/7KG6-1K22)
 
-The full dataset contains 20 minutes per municipality with over 1.3 million tokens and 38,000+ annotations. Please visit the DOI link to access the complete dataset and review the usage terms.
+The full dataset contains 20 minutes per municipality with over a million tokens and 38,000+ annotations. Please visit the DOI link to access the complete dataset and review the usage terms.
 
 ## Usage
 
@@ -266,7 +271,7 @@ To facilitate different use cases and reduce data processing overhead, we provid
    - Use case: Analyzing meeting patterns, participant attendance, temporal trends
 
 2. **`subjects_only`** - Contains core subject annotations
-   - Includes: subject_id, start, end, subject_of_discussion, theme, topics
+   - Includes: subject_id, start, end, subject, theme, topics
    - Excludes: full text, metadata, voting records
    - Use case: Topic classification, Topic Segmentation, QA systems
 
@@ -434,6 +439,95 @@ for doc in data['municipalities'][0]['minutes']:
                 })
 ```
 
+## Baselines
+
+The associated research paper establishes baseline performance for three key tasks using this dataset. Metadata and Voting Identification tasks were evaluated using both **encoder-based models** and **LLM-based approaches** with Gemini 2.5 Pro, while Topic Classification employs a **Gradient Boosting ensemble with Active Learning**.
+
+**Fine-tuned Models:** All fine-tuned BERTimbau models for the tasks described below are publicly available in [HuggingFace](https://huggingface.co/collections/liaad/citilink-68f7916f31b9588c4fe2f43b).
+
+### 1. Metadata Identification
+
+Extracting structured metadata from meeting minutes, including participants, dates, locations, meeting types, and temporal information.
+
+**Approaches:**
+- **Encoder**: [Portuguese BERT (BERTimbau)](https://huggingface.co/neuralmind/bert-base-portuguese-cased) fine-tuned for token classification
+- **LLM**: Gemini 2.5 Pro with structured extraction prompts
+
+**Example Prompt** (Metadata Extraction):
+```
+Tarefa: Extrair metadados de atas municipais portuguesas a partir do texto fornecido.
+
+Metadados a extrair (classes):
+- minute_id: número da ata (texto exato que aparece com "ATA N.º <n>").
+- date: data da reunião (formato original como aparece no texto, ex.: "17 DE NOVEMBRO DE 2021").
+- meeting_type: tipo de reunião (ex.: "ORDINÁRIA", "EXTRAORDINÁRIA").
+- location: local onde decorre a reunião (texto exato, incluindo determinantes ou preposições, ex.: "no Edifício dos Paços do Concelho").
+- begin_time: hora de início (texto exato, ex.: "nove horas e trinta minutos" ou "10.35 horas").
+- end_time: hora de fim (texto exato, ex.: "dez horas e cinquenta minutos" ou "16:00 horas").
+- participant: participante nomeado na abertura, com atributos:
+    - type: um de {"president","councillors"} (sem inventar categorias novas)
+    - present: "present"|"absent"|"substituted" quando claramente indicado (ex.: "Faltou ...")
+
+Regras:
+- Usar o texto exato ("extraction_text") tal como aparece. Não parafrasear.
+- Não sobrepor entidades. Se um excerto já foi usado para "minute_id", não o reutilizar para outra entidade.
+- Não inventar valores. Se uma classe não estiver presente no texto fornecido, omitir.
+- A atribuição de offsets (início/fim) deve corresponder ao texto exato no input.
+- Respeitar acentos, maiúsculas/minúsculas e pontuação como no original.
+```
+
+### 2. Voting Identification
+
+Identifying voting events, participants' votes, and voting outcomes within meeting discussions.
+
+**Approaches:**
+- **Encoder**: [Portuguese BERT (BERTimbau)](https://huggingface.co/neuralmind/bert-base-portuguese-cased) fine-tuned for Named Entity Recognition
+- **LLM**: Gemini 2.5 Pro with voting-specific extraction prompt
+
+**Example Prompt** (Voting Extraction):
+```
+Extract all voting entities from Portuguese municipal council meeting minutes.
+Entity Types:
+- VOTER-FAVOR: Participants who voted in favor
+- VOTER-AGAINST: Participants who voted against
+- VOTER-ABSTENTION: Participants who abstained
+- VOTER-ABSENT: Participants who were absent
+- SUBJECT: The subject being voted on
+- VOTING: Voting action expressions (deliberou, votou, etc.)
+- COUNTING-MAJORITY: Expressions indicating majority voting (por maioria)
+- COUNTING-UNANIMITY: Expressions indicating unanimous voting (por unanimidade)
+Extract the exact text spans as they appear in the document.
+```
+
+### 3. Topic Classification
+
+Categorizing discussion subjects into thematic topics (e.g., Environment, Education, Infrastructure).
+
+**Approaches:**
+- **Encoder**: [Portuguese BERT (BERTimbau)](https://huggingface.co/neuralmind/bert-base-portuguese-cased) fine-tuned for multi-label classification
+- **LLM**: Gemini 2.5 Pro with a Topic Classication prompt
+
+**Example Prompt** (Topic Classification):
+```
+You are an expert in classifying Portuguese municipal council meeting minutes.
+Available Topics (you MUST choose ONLY from this list):
+{labels_str}
+Examples from Training Data:
+{examples_str}
+Now, classify this new text:
+{text}
+Instructions:
+1. Read the text carefully
+2. Identify ALL topics that are discussed or mentioned (like in the examples above)
+3. Return ONLY the topic names, separated by commas
+4. Use the EXACT names from the available topics list
+5. If multiple topics apply, list all of them
+6. If no topics clearly apply, return "Nenhum"
+Your Response (topic names only, comma-separated):
+```
+
+**Note:** Detailed baseline results, evaluation metrics, and implementation details are provided in the associated research paper.
+
 ## License
 
 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
@@ -450,9 +544,9 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 ## Documentation and Resources
 
-- **Citilink:** [https://citilink.inesctec.pt/](https://citilink.inesctec.pt/)
-- **INESCTEC:** [https://www.inesctec.pt](https://www.inesctec.pt)
- - **Annotation Guidelines:** `docs/citilink_annotation_guidelines.pdf` (detailed annotation instructions and schema)
+- **[Citilink](https://citilink.inesctec.pt/)**
+- **[Demo](https://citilink.inesctec.pt/dataset-demo/)**
+ - **[Annotation Guidelines:](docs/citilink_annotation_guidelines.pdf)** (detailed annotation instructions and schema)
 
 ### Citation
 
@@ -470,9 +564,15 @@ If you use this dataset in your research, please cite:
 
 ## Credits and Acknowledgements
 
-This dataset was developed by **INESCTEC (Institute for Systems and Computer Engineering, Technology and Science)**, specifically by the **NLP** research group, part of the **LIAAD (Laboratory of Artificial Intelligence and Decision Support)** center.
+This dataset was developed by **[INESCTEC  (Institute for Systems and Computer Engineering, Technology and Science)](https://www.inesctec.pt)**, specifically by the **[NLP](https://nlp.inesctec.pt/)** research group, part of the **[LIAAD (Laboratory of Artificial Intelligence and Decision Support)](https://www.inesctec.pt/pt/centros/LIAAD)** center.
 
-**Acknowledgements:**
+### Affiliated Institutions
+
+- [University of Beira Interior (UBI)](https://www.ubi.pt/en/)
+- [University of Porto (UP)](https://www.up.pt/portal/en/)
+
+### Acknowledgements
+
 - The municipalities of Alandroal, Campo Maior, Covilhã, Fundão, Guimarães, and Porto for making their meeting minutes publicly available
 - All contributors who participated in the data annotation and validation process
 

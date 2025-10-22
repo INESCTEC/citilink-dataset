@@ -1111,13 +1111,115 @@
           "metadata": {
             "municipality": "Covilha",
             "year": "2021",
-            "minute_number": null,
-            "date": null,
-            "location": null,
-            "meeting_type": null,
-            "begin_time": null,
-            "end_time": null,
-            "participants": []
+            "minute_number": {
+              "text": "04-A",
+              "start": 58,
+              "end": 62
+            },
+            "date": {
+              "text": "03 de dezembro de 2021",
+              "start": 115,
+              "end": 137
+            },
+            "location": {
+              "text": "a Sala de Reuniões do Edifício dos Paços do Concelho",
+              "start": 1007,
+              "end": 1059
+            },
+            "meeting_type": {
+              "text": "ordinária",
+              "start": 80,
+              "end": 89,
+              "type": "ordinary"
+            },
+            "begin_time": {
+              "text": "09:05 horas",
+              "start": 151,
+              "end": 162
+            },
+            "end_time": {
+              "text": "10:50 horas",
+              "start": 178,
+              "end": 189
+            },
+            "participants": [
+              {
+                "name": "Vítor Manuel Pinheiro Pereira",
+                "type": "president",
+                "start": 1181,
+                "end": 1210,
+                "party": "PS",
+                "present": "present"
+              },
+              {
+                "name": "Pedro Miguel Santos Farromba",
+                "type": "councilors",
+                "start": 1253,
+                "end": 1281,
+                "party": "CDS-PP/PSD",
+                "present": "present"
+              },
+              {
+                "name": "José Armando Serra dos Reis",
+                "type": "vice_president",
+                "start": 1283,
+                "end": 1310,
+                "party": "PS",
+                "present": "present"
+              },
+              {
+                "name": "Maria Regina Gomes Gouveia",
+                "type": "councilors",
+                "start": 1312,
+                "end": 1338,
+                "party": "PS",
+                "present": "present"
+              },
+              {
+                "name": "Jorge Humberto Martins Simões",
+                "type": "councilors",
+                "start": 1340,
+                "end": 1369,
+                "party": "CDS-PP/PSD",
+                "present": "present"
+              },
+              {
+                "name": "José Miguel Ribeiro Oliveira",
+                "type": "councilors",
+                "start": 1438,
+                "end": 1466,
+                "party": "PS",
+                "present": "present"
+              },
+              {
+                "name": "Marta Maria Tomaz Gomes Morais Alçada Bom Jesus",
+                "type": "councilors",
+                "start": 1469,
+                "end": 1516,
+                "party": "CDS-PP/PSD",
+                "present": "present"
+              },
+              {
+                "name": "Ricardo Miguel Correia Leitão Ferreira da Silva",
+                "type": "councilors",
+                "start": 1389,
+                "end": 1436,
+                "party": "CDS-PP/PSD",
+                "present": "replaced"
+              },
+              {
+                "name": "********************************",
+                "type": "staff",
+                "start": 1564,
+                "end": 1596
+              },
+              {
+                "name": "******************************",
+                "type": "",
+                "start": 16649,
+                "end": 16679
+              }
+            ]
           },
           "agenda_items": [
             {
