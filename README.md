@@ -580,7 +580,7 @@ This dataset was developed by **[INESCTEC  (Institute for Systems and Computer E
 
 For support, questions, or collaboration inquiries:
 
-**Ricardo Campos** - ricardo.campos@inesctec.pt
+citilink@inesctec.pt
 
 For bug reports or feature requests:
 - Open an issue in the [GitHub repository](https://github.com/INESCTEC/citilink-dataset/issues)
