@@ -1,6 +1,7 @@
 # CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes
 
 **[Try our interactive Demo](https://citilink.inesctec.pt/dataset-demo/)**
+
 (The demo is password-protected. To access the platform, please visit this [link](https://rdm.inesctec.pt/dataset/cs-2025-007) and request access to the dataset.)
 ## Description
 
