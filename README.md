@@ -2,7 +2,7 @@
 
 **[Try our interactive Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
 
-(The demo is password-protected. To access the platform, please visit this [link](https://rdm.inesctec.pt/dataset/cs-2025-007) and request access to the dataset.)
+(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://rdm.inesctec.pt/dataset/cs-2025-007) and request access to the dataset.)
 ## Description
 
 The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over a million tokens** with comprehensive multilayer annotations covering (1) **metadata**, (2) **subjects of discussion**, and (3) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
