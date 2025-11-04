@@ -1,8 +1,15 @@
 # CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes
 
-**[Try our interactive Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
+[![License: CC-BY-ND 4.0](https://img.shields.io/badge/License-CC--BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
+Official repository for the submission of the paper **"CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes"**, for ECIR 2026.
+
+**[Try our interactive Demo](https://citilink.inesctec.pt/dataset-demo/)**
+
+<div align="center">
+  <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="https://github.com/user-attachments/assets/a6c09863-f19f-449f-aef6-0b2ae8bf43cd" />
+</div>
+
 ## Description
 
 The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over a million tokens** with comprehensive multilayer annotations covering (1) **metadata**, (2) **subjects of discussion**, and (3) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
@@ -25,6 +32,11 @@ Municipal meeting minutes are typically published as unstructured PDF or text do
 This project is currently **completed and stable**. The dataset represents a snapshot of municipal meeting minutes from the covered municipalities. Updates may be released periodically to include additional meetings or municipalities.
 
 ## Dataset Statistics
+
+> **⚠️ Important Note for Reviewers**:
+> - **Full Dataset**: The complete dataset statistics are shown below, but the full dataset files are **not yet available** in this repository.
+> - **Sample Data**: This repository only includes a sample of **6 annotated document** for demonstration purposes  The full dataset will be made publicly available upon acceptance of the associated research paper.
+> - **Interactive Demo**: To explore the full dataset, please visit our **[Interactive Demo](https://citilink.inesctec.pt/dataset-demo)**
 
 | **Municipality** | **Tokens** | **Entities** | **Relations** |
 |------------------|------------|--------------|---------------|
@@ -546,7 +558,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 ## Documentation and Resources
 
 - **[Citilink](https://citilink.inesctec.pt/)**
-- **[Dataset Dashboard](https://dataset.citilink.inesctec.pt)** (to access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset)
+- **[Demo](https://citilink.inesctec.pt/dataset-demo/)**
  - **[Annotation Guidelines:](docs/citilink_annotation_guidelines.pdf)** (detailed annotation instructions and schema)
 
 ### Citation
@@ -581,7 +593,7 @@ This dataset was developed by **[INESCTEC  (Institute for Systems and Computer E
 
 For support, questions, or collaboration inquiries:
 
-citilink@inesctec.pt
+**Ricardo Campos** - ricardo.campos@inesctec.pt
 
 For bug reports or feature requests:
 - Open an issue in the [GitHub repository](https://github.com/INESCTEC/citilink-dataset/issues)

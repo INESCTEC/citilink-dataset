@@ -72,12 +72,7 @@
               "end": 85
             },
             "location": null,
-            "meeting_type": {
-              "text": "PÚBLICA",
-              "start": 13,
-              "end": 20,
-              "type": "PÚBLICA"
-            },
+            "meeting_type": null,
             "begin_time": {
               "text": "10 HORAS",
               "start": 89,
