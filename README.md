@@ -4,8 +4,8 @@
 
 Official repository for the submission of the paper **"CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes"**, for ECIR 2026.
 
-**[Try our interactive Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
-(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
+**[Try our interactive Dataset Explorer](https://dataset.citilink.inesctec.pt)**
+(The Dataset Explorer is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
 
 
 <div align="center">
@@ -38,8 +38,8 @@ This project is currently **completed and stable**. The dataset represents a sna
 > **⚠️ Important Note for Reviewers**:
 > - **Full Dataset**: The complete dataset statistics are shown below, but the full dataset files are **not yet available** in this repository.
 > - **Sample Data**: This repository only includes a sample of **6 annotated document** for demonstration purposes  The full dataset will be made publicly available upon acceptance of the associated research paper.
-> - **Interactive Dashboard**: To explore the full dataset, please visit our **[Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
-(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
+> - **Dataset Explorer**: To explore the full dataset, please visit our **[Dataset Explorer](https://dataset.citilink.inesctec.pt)**
+(The Dataset Explorer is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
 
 | **Municipality** | **Tokens** | **Entities** | **Relations** |
 |------------------|------------|--------------|---------------|
@@ -561,7 +561,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 ## Documentation and Resources
 
 - **[Citilink](https://citilink.inesctec.pt/)**
-- **[Demo](https://citilink.inesctec.pt/dataset-demo/)**
+- **[Dataset Explorer](https://dataset.citilink.inesctec.pt)**
  - **[Annotation Guidelines:](docs/citilink_annotation_guidelines.pdf)** (detailed annotation instructions and schema)
 
 ### Citation
