@@ -4,7 +4,9 @@
 
 Official repository for the submission of the paper **"CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes"**, for ECIR 2026.
 
-**[Try our interactive Demo](https://citilink.inesctec.pt/dataset-demo/)**
+**[Try our interactive Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
+(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
+
 
 <div align="center">
   <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="https://github.com/user-attachments/assets/a6c09863-f19f-449f-aef6-0b2ae8bf43cd" />
@@ -36,7 +38,8 @@ This project is currently **completed and stable**. The dataset represents a sna
 > **⚠️ Important Note for Reviewers**:
 > - **Full Dataset**: The complete dataset statistics are shown below, but the full dataset files are **not yet available** in this repository.
 > - **Sample Data**: This repository only includes a sample of **6 annotated document** for demonstration purposes  The full dataset will be made publicly available upon acceptance of the associated research paper.
-> - **Interactive Demo**: To explore the full dataset, please visit our **[Interactive Demo](https://citilink.inesctec.pt/dataset-demo)**
+> - **Interactive Dashboard**: To explore the full dataset, please visit our **[Dataset Dashboard](https://dataset.citilink.inesctec.pt)**
+(The Dataset Dashboard is password-protected. To access the platform, please visit this [link](https://doi.org/10.25747/7KG6-1K22) and request access to the dataset.)
 
 | **Municipality** | **Tokens** | **Entities** | **Relations** |
 |------------------|------------|--------------|---------------|
@@ -593,7 +596,7 @@ This dataset was developed by **[INESCTEC  (Institute for Systems and Computer E
 
 For support, questions, or collaboration inquiries:
 
-**Ricardo Campos** - ricardo.campos@inesctec.pt
+citilink@inesctec.pt
 
 For bug reports or feature requests:
 - Open an issue in the [GitHub repository](https://github.com/INESCTEC/citilink-dataset/issues)
