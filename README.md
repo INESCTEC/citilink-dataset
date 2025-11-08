@@ -9,12 +9,13 @@ Official repository for the submission of the paper **"CitiLink-Minutes: A Multi
 
 
 <div align="center">
-  <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="https://github.com/user-attachments/assets/a6c09863-f19f-449f-aef6-0b2ae8bf43cd" />
+  <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="https://github.com/user-attachments/assets/a0d07ae3-6c53-4ac4-a973-f81c1e2d39e4" />
 </div>
+
 
 ## Description
 
-The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over a million tokens** with comprehensive multilayer annotations covering (1) **metadata**, (2) **subjects of discussion**, and (3) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
+The CitiLink-Minutes Dataset is a comprehensive collection of Portuguese municipal council meeting minutes, providing structured and annotated data from local government proceedings. This dataset contains **over a million tokens** with comprehensive multilayer annotations covering (1) **personal information**, (2) **metadata**, (3) **subjects of discussion**, and (4) **voting outcomes**, totaling **over 38,000 individual annotations** across six Portuguese municipalities.
 
 **What this project does:**
 This dataset provides researchers, data scientists, and civic tech developers with access to structured municipal governance data, enabling analysis of local government decision-making, voting patterns, policy discussions, and civic participation across different Portuguese municipalities.
