@@ -9,7 +9,7 @@ Official repository for the submission of the paper **"CitiLink-Minutes: A Multi
 
 
 <div align="center">
-  <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="https://github.com/user-attachments/assets/a0d07ae3-6c53-4ac4-a973-f81c1e2d39e4" />
+  <img width="6250" height="2500" alt="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes" src="citilink_flashcard.png" />
 </div>
 
 
@@ -58,6 +58,17 @@ This project is currently **completed and stable**. The dataset represents a sna
 - **Relations**: Annotated relationships between entities (voting records, participations, etc.)
 
 ## Dataset Structure
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right:12px;">
+      <img src="minute_diagram.png" alt="Representative instance of an annotated minute" width="300" />
+    </td>
+    <td align="center" style="padding-left:12px;">
+      <img src="annotation_layers_diagram.png" alt="Schematic representation of the four-layer annotation framework" width="520" />
+    </td>
+  </tr>
+</table>
 
 The dataset is organized into 6 JSON files, one per municipality:
 
