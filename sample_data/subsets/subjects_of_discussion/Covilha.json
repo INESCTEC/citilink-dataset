@@ -1,0 +1,741 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Covilha",
+      "minutes": [
+        {
+          "minute_id": "Covilha_cm_004-A_2021-12-03",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "1. AGENDA",
+              "subjects": [
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_1",
+                  "start": 1714,
+                  "end": 2058,
+                  "subject": {
+                    "text": "alínea a) do 5.2. – DFMA",
+                    "start": 1822,
+                    "end": 1846
+                  },
+                  "summary": null,
+                  "theme": "Correção do título de uma alínea do ponto 5.2. DFMA",
+                  "topics": [
+                    "Other"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "APROVAÇÃO DE ATAS",
+              "subjects": [
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_2",
+                  "start": 2079,
+                  "end": 2418,
+                  "subject": {
+                    "text": "ata n.º 2-A/2021 – Reunião Ordinária Privada - 05.novembro.2021",
+                    "start": 2173,
+                    "end": 2236
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata n.º 2-A/2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_3",
+                  "start": 2420,
+                  "end": 2762,
+                  "subject": {
+                    "text": "ata n.º 3-A/2021 da Reunião Ordinária Pública de 19.novembro.2021",
+                    "start": 2515,
+                    "end": 2580
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata n.º 3-A/2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 3,
+              "item_title": "3. BALANCETE",
+              "subjects": [
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_4",
+                  "start": 2778,
+                  "end": 3303,
+                  "subject": {
+                    "text": "balancete",
+                    "start": 2789,
+                    "end": 2798
+                  },
+                  "summary": null,
+                  "theme": "Apresentação do balancete",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 4,
+              "item_title": "4. DESPACHOS",
+              "subjects": [
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_5",
+                  "start": 3319,
+                  "end": 3360,
+                  "subject": {
+                    "text": "assuntos neste ponto",
+                    "start": 3339,
+                    "end": 3359
+                  },
+                  "summary": null,
+                  "theme": "Ausência de assuntos agendados no ponto 4. Despachos",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 5,
+              "item_title": "5. DEPARTAMENTOS",
+              "subjects": [
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_6",
+                  "start": 3445,
+                  "end": 4939,
+                  "subject": {
+                    "text": "indicação do Município de Manteigas como Beneficiário no protocolo de colaboração técnica e financeira com o Fundo Ambiental e o Instituto da Conservação da Natureza e das Florestas, I.P.",
+                    "start": 4716,
+                    "end": 4903
+                  },
+                  "summary": null,
+                  "theme": "Indicação do Município de Manteigas como beneficiário em protocolo de colaboração com o ICNF",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Environment",
+                    "External Cooperation and International Relations"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_7",
+                  "start": 4941,
+                  "end": 6659,
+                  "subject": {
+                    "text": "celebração do Protocolo entre o Município da Covilhã e a Junta Regional da Guarda do Corpo Nacional de Escutas",
+                    "start": 5841,
+                    "end": 5951
+                  },
+                  "summary": null,
+                  "theme": "Celebração de Protocolo entre o Município e a Junta Regional da Guarda do CNE",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_8",
+                  "start": 6661,
+                  "end": 8020,
+                  "subject": {
+                    "text": "celebração do Protocolo de Colaboração entre o Município da Covilhã e a SOGILUB – Sociedade de Gestão Integrada de Óleos Lubrificantes Usados, Lda.",
+                    "start": 7670,
+                    "end": 7817
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Colaboração entre o Município e a SOGILUB",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Environment"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_9",
+                  "start": 8022,
+                  "end": 9488,
+                  "subject": {
+                    "text": "aprovação da Minuta do Protocolo de Apoio e Cooperação Institucional entre o Município da Covilhã e o CHUCB - Centro Hospitalar Universitário da Cova da Beira",
+                    "start": 8305,
+                    "end": 8463
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Apoio e Cooperação entre o Município e o CHUCB",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Health"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_10",
+                  "start": 9490,
+                  "end": 10493,
+                  "subject": {
+                    "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e a União de Freguesas de Teixoso e Sarzedo",
+                    "start": 10145,
+                    "end": 10250
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Apoio entre o Município e a União de Freguesias de Teixoso e Sarzedo",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_11",
+                  "start": 10495,
+                  "end": 11219,
+                  "subject": {
+                    "text": "Aceitação de Doação de 74 desenhos de “Debuxo”",
+                    "start": 10495,
+                    "end": 10541
+                  },
+                  "summary": null,
+                  "theme": "Doação de 74 desenhos de Debuxo por um cidadão",
+                  "topics": [
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_12",
+                  "start": 11282,
+                  "end": 12357,
+                  "subject": {
+                    "text": "Despacho exarado pelo Senhor Presidente da Câmara no dia 17.novembro.2021",
+                    "start": 11947,
+                    "end": 12020
+                  },
+                  "summary": null,
+                  "theme": "Tomada de conhecimento pela Câmara do despacho do Presidente sobre o transporte urbano de passageiros",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_13",
+                  "start": 12359,
+                  "end": 13468,
+                  "subject": {
+                    "text": "concessão do uso privativo da sepultura",
+                    "start": 13159,
+                    "end": 13198
+                  },
+                  "summary": null,
+                  "theme": "Concessão do uso privativo de sepultura a um cidadão",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_14",
+                  "start": 13512,
+                  "end": 15166,
+                  "subject": {
+                    "text": "celebração do Protocolo de Colaboração e Apoio entre o Município da Covilhã e a CIMBSE – Comunidade Intermunicipal das Beiras e Serra da Estrela",
+                    "start": 14735,
+                    "end": 14879
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Colaboração e Apoio entre o Município e a CIMBSE",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "External Cooperation and International Relations"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_15",
+                  "start": 15168,
+                  "end": 18156,
+                  "subject": {
+                    "text": "cálculo n.º 1 provisório de revisão de preços da Empreitada de Obras do Caminho do Porsim",
+                    "start": 17833,
+                    "end": 17922
+                  },
+                  "summary": null,
+                  "theme": "Cálculo provisório da revisão de preços da empreitada do Caminho do Porsim",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_16",
+                  "start": 18179,
+                  "end": 19230,
+                  "subject": {
+                    "text": "auto de receção provisória dos trabalhos da Empreitada de Obras do Caminho do Porsim ",
+                    "start": 19047,
+                    "end": 19132
+                  },
+                  "summary": null,
+                  "theme": "Homologação do auto de receção provisória da empreitada do Caminho do Porsim",
+                  "topics": [
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_17",
+                  "start": 19232,
+                  "end": 20134,
+                  "subject": {
+                    "text": "auto de receção provisória dos trabalhos da Empreitada de Obras de Reabilitação dos Edifícios de Habitação Social da Quinta da Alâmpada",
+                    "start": 19953,
+                    "end": 20088
+                  },
+                  "summary": null,
+                  "theme": "Homologação do auto de receção provisória da empreitada da Quinta da Alâmpada",
+                  "topics": [
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_18",
+                  "start": 20150,
+                  "end": 21176,
+                  "subject": {
+                    "text": "conta final da Empreitada de Obras do Caminho do Porsim",
+                    "start": 21022,
+                    "end": 21077
+                  },
+                  "summary": null,
+                  "theme": "Homologação da conta final da empreitada do Caminho do Porsim",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_19",
+                  "start": 21178,
+                  "end": 22160,
+                  "subject": {
+                    "text": "aditamento à conta final da Empreitada de Obras de Reabilitação de Edifício para Instalação do Centro de Inclusão Social da Covilhã",
+                    "start": 22028,
+                    "end": 22159
+                  },
+                  "summary": null,
+                  "theme": "Aditamento à conta final da empreitada do CIS da Covilhã",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Social Action",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_20",
+                  "start": 22187,
+                  "end": 23277,
+                  "subject": {
+                    "text": "ordenamento do trânsito na Rua Fonte do Fundo - Teixoso",
+                    "start": 22353,
+                    "end": 22408
+                  },
+                  "summary": null,
+                  "theme": "Ordenamento do trânsito na Rua Fonte do Fundo, Teixoso",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_21",
+                  "start": 23279,
+                  "end": 24113,
+                  "subject": {
+                    "text": "ordenamento do estacionamento na Rua do Lameirão – União de Freguesias de Cantar-Galo e Vila do Carvalho",
+                    "start": 23488,
+                    "end": 23592
+                  },
+                  "summary": null,
+                  "theme": "Ordenamento do estacionamento na Rua do Lameirão",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_22",
+                  "start": 24115,
+                  "end": 26565,
+                  "subject": {
+                    "text": "ordenamento do trânsito nas Urbanizações: Claraboia, Pera Longa e da Bela Vista",
+                    "start": 24304,
+                    "end": 24383
+                  },
+                  "summary": null,
+                  "theme": "Ordenamento do trânsito nas Urbanizações de Claraboia, Pera Longa e da Bela Vista",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_23",
+                  "start": 26567,
+                  "end": 29080,
+                  "subject": {
+                    "text": "ordenamento do estacionamento junto à pousada da Juventude – Penhas da Saúde",
+                    "start": 26743,
+                    "end": 26819
+                  },
+                  "summary": null,
+                  "theme": "Ordenamento do estacionamento junto à pousada da Juventude das Penhas da Saúde",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_24",
+                  "start": 29082,
+                  "end": 30043,
+                  "subject": {
+                    "text": "ampliação da rede de iluminação pública na Rua Direita 64 PT - Casegas",
+                    "start": 29722,
+                    "end": 29792
+                  },
+                  "summary": null,
+                  "theme": "Ampliação da iluminação pública na Rua Direita 64 PT, Casegas",
+                  "topics": [
+                    "Energy and Telecommunications",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_25",
+                  "start": 30109,
+                  "end": 30539,
+                  "subject": {
+                    "text": "integração da Covilhã na Rede de Cidades Criativas da UNESNO, na área do design",
+                    "start": 30429,
+                    "end": 30508
+                  },
+                  "summary": null,
+                  "theme": "Tomada de conhecimento pela Câmara da integração da Covilhã na Rede de Cidades Criativas - UNESCO",
+                  "topics": [
+                    "Heritage",
+                    "Culture",
+                    "External Cooperation and International Relations"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_26",
+                  "start": 30541,
+                  "end": 33132,
+                  "subject": {
+                    "text": "Constituição da Comissão de Toponímia - mandato 2021/2025",
+                    "start": 30541,
+                    "end": 30598
+                  },
+                  "summary": null,
+                  "theme": "Constituição da Comissão de Toponímia para 2021/2025",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Heritage"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_27",
+                  "start": 33165,
+                  "end": 34070,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 33384,
+                    "end": 33417
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_28",
+                  "start": 34072,
+                  "end": 34988,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 34292,
+                    "end": 34325
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_29",
+                  "start": 34990,
+                  "end": 35922,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 35210,
+                    "end": 35243
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_30",
+                  "start": 35924,
+                  "end": 36876,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 36143,
+                    "end": 36176
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_31",
+                  "start": 36878,
+                  "end": 37675,
+                  "subject": {
+                    "text": "habitação municipal",
+                    "start": 37539,
+                    "end": 37558
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_32",
+                  "start": 37677,
+                  "end": 38637,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 37897,
+                    "end": 37930
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_33",
+                  "start": 38639,
+                  "end": 39545,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 38859,
+                    "end": 38892
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_34",
+                  "start": 39547,
+                  "end": 40461,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 39767,
+                    "end": 39800
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_35",
+                  "start": 40463,
+                  "end": 41389,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 40683,
+                    "end": 40716
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_36",
+                  "start": 41391,
+                  "end": 42302,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 41612,
+                    "end": 41645
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Social Action",
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_37",
+                  "start": 42304,
+                  "end": 43245,
+                  "subject": {
+                    "text": "atribuição de habitação municipal",
+                    "start": 42525,
+                    "end": 42558
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_38",
+                  "start": 43247,
+                  "end": 44376,
+                  "subject": {
+                    "text": "transferência de habitação",
+                    "start": 43469,
+                    "end": 43495
+                  },
+                  "summary": null,
+                  "theme": "Autorização da transferência de habitação municipal a um cidadão",
+                  "topics": [
+                    "Housing"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_39",
+                  "start": 44378,
+                  "end": 45675,
+                  "subject": {
+                    "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e a Associação Cultural Desportiva Paulense - Banda Filarmónica do Paul",
+                    "start": 44998,
+                    "end": 45131
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Apoio entre o Município e a Banda Filarmónica do Paul",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_40",
+                  "start": 45677,
+                  "end": 46634,
+                  "subject": {
+                    "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e o Carvalhense Futebol Clube",
+                    "start": 46211,
+                    "end": 46302
+                  },
+                  "summary": null,
+                  "theme": "Celebração do Protocolo de Apoio entre o Município e o Carvalhense Futebol Clube",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_41",
+                  "start": 46636,
+                  "end": 49367,
+                  "subject": {
+                    "text": "Aditamento ao Contrato Programa N.º 115762021P01, a celebrar entre o Município da Covilhã e o Penta Clube da Covilhã",
+                    "start": 47306,
+                    "end": 47422
+                  },
+                  "summary": null,
+                  "theme": "Aditamento ao Contrato Programa entre o Município e o Penta Clube da Covilhã",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_42",
+                  "start": 49369,
+                  "end": 52141,
+                  "subject": {
+                    "text": "Aditamento ao Contrato Programa N.º 13022021P01, a celebrar entre o Município da Covilhã e o Agrupamento 607 – Corpo Nacional de Escutas",
+                    "start": 50078,
+                    "end": 50214
+                  },
+                  "summary": null,
+                  "theme": "Aditamento ao Contrato Programa entre o Município e o Agrupamento 607 do CNE",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_43",
+                  "start": 52143,
+                  "end": 54933,
+                  "subject": {
+                    "text": "Aditamento ao Contrato Programa N.º 25082021P01 entre o Município da Covilhã e a Associação “O Paul Cultural Desportivo”",
+                    "start": 52844,
+                    "end": 52964
+                  },
+                  "summary": null,
+                  "theme": "Aditamento ao Contrato Programa entre o Município e a Associação \"O Paul Cultural Desportivo\"",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_44",
+                  "start": 54935,
+                  "end": 56304,
+                  "subject": {
+                    "text": "Aditamento ao Contrato Programa N.º 620P202003 entre o Município da Covilhã e a Associação Recreativa Musical Covilhanense – Banda da Covilhã",
+                    "start": 55662,
+                    "end": 55803
+                  },
+                  "summary": null,
+                  "theme": "Aditamento ao Contrato Programa entre o Município e a Banda da Covilhã",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Covilha_cm_004-A_2021-12-03_45",
+                  "start": 56306,
+                  "end": 58075,
+                  "subject": {
+                    "text": "isenção do pagamento das taxas municipais",
+                    "start": 57601,
+                    "end": 57642
+                  },
+                  "summary": null,
+                  "theme": "Isenção do pagamento de taxas municipais e compensações pedida pelo CCD",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Porto",
+      "minutes": [
+        {
+          "minute_id": "Porto_cm_002_2021-11-08",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_1",
+                  "start": 698,
+                  "end": 883,
+                  "subject": {
+                    "text": "Ata da reunião pública do Executivo Municipal de 25 de outubro de 2021",
+                    "start": 701,
+                    "end": 771
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata da reunião pública do Executivo Municipal de 25.10.2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "1. Ata da reunião pública do Executivo Municipal de 25 de outubro de 2021.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_2",
+                  "start": 884,
+                  "end": 1896,
+                  "subject": {
+                    "text": "Aprovação da periodicidade das reuniões ordinárias",
+                    "start": 887,
+                    "end": 937
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da periodicidade das reuniões ordinárias",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 3,
+              "item_title": "2. Aprovação da periodicidade das reuniões ordinárias.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_3",
+                  "start": 1897,
+                  "end": 8747,
+                  "subject": {
+                    "text": "Aprovação do Regimento da Câmara Municipal do Porto",
+                    "start": 1900,
+                    "end": 1951
+                  },
+                  "summary": null,
+                  "theme": "Aprovação do Regimento da Câmara Municipal do Porto",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 4,
+              "item_title": "3. Aprovação do Regimento da Câmara Municipal do Porto.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_4",
+                  "start": 8748,
+                  "end": 20017,
+                  "subject": {
+                    "text": "Proposta de não aceitação da transferência de competências em matéria de ação social para o ano 2021",
+                    "start": 8751,
+                    "end": 8851
+                  },
+                  "summary": null,
+                  "theme": "Proposta de não aceitação da transferência de competências em matéria de ação social para 2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Social Action"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 5,
+              "item_title": "4. Proposta de não aceitação da transferência de competências em matéria de ação social para o ano 2021.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_5",
+                  "start": 20018,
+                  "end": 20204,
+                  "subject": {
+                    "text": "reembolso aos comerciantes que aderiram ao Programa de Incentivo à Atividade Comercial",
+                    "start": 20034,
+                    "end": 20120
+                  },
+                  "summary": null,
+                  "theme": "Reembolso a comerciantes pela adesão ao Programa de Incentivo à Atividade Comercial",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 6,
+              "item_title": "5. Aprovação de reembolso aos comerciantes que aderiram ao Programa de Incentivo à Atividade Comercial, aprovado na Reunião de Executivo de 5 de abril de 2021.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_6",
+                  "start": 20205,
+                  "end": 21573,
+                  "subject": {
+                    "text": "Regulamento do Cartão Porto. -- Submissão à Assembleia Municipal após consulta pública",
+                    "start": 20208,
+                    "end": 20294
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM do Regulamento do Cartão Porto após consulta pública",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 7,
+              "item_title": "6. Regulamento do Cartão Porto. -- Submissão à Assembleia Municipal após consulta pública.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_7",
+                  "start": 21574,
+                  "end": 35470,
+                  "subject": {
+                    "text": "revogação do Regulamento da Feira do Cerco e encerramento definitivo da Feira",
+                    "start": 21590,
+                    "end": 21667
+                  },
+                  "summary": null,
+                  "theme": "Revogação do Regulamento da Feira do Cerco e encerramento definitivo da Feira",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 8,
+              "item_title": "7. Aprovação da revogação do Regulamento da Feira do Cerco e encerramento definitivo da Feira.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_8",
+                  "start": 35471,
+                  "end": 35692,
+                  "subject": {
+                    "text": "Isenção do pagamento de taxas devidas no âmbito do condicionamento de trânsito/estacionamento para a Unidade Móvel do CAD VIH/SIDA no ano 2022 à Administração Regional de Saúde do Norte, I.P.",
+                    "start": 35474,
+                    "end": 35665
+                  },
+                  "summary": null,
+                  "theme": "Isenção do pagamento de taxas de trânsito/estacionamento da Unidade Móvel do CAD VIH/SIDA em 2022",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications",
+                    "Health"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 9,
+              "item_title": "8. Isenção do pagamento de taxas devidas no âmbito do condicionamento de trânsito/estacionamento para a Unidade Móvel do CAD VIH/SIDA no ano 2022 à Administração Regional de Saúde do Norte, I.P.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_9",
+                  "start": 35693,
+                  "end": 35866,
+                  "subject": {
+                    "text": "Terminal do Parque das Camélias -- isenção do pagamento devido aos serviços de transporte público autorizados pela Área Metropolitana do Porto",
+                    "start": 35696,
+                    "end": 35838
+                  },
+                  "summary": null,
+                  "theme": "Terminal do Parque das Camélias - Isenção do pagamento aos serviços de transporte público autorizados pela AMP",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 10,
+              "item_title": "9. Terminal do Parque das Camélias -- isenção do pagamento devido aos serviços de transporte público autorizados pela Área Metropolitana do Porto.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_10",
+                  "start": 35867,
+                  "end": 36021,
+                  "subject": {
+                    "text": "Apoio à inscrição de 30 escolas do Concelho no Programa Eco-Escolas desenvolvido pela \"Associação Bandeira Azul da Europa\"",
+                    "start": 35871,
+                    "end": 35993
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de apoio financeiro a 30 escolas do Concelho inscritas no Programa Eco-Escolas",
+                  "topics": [
+                    "Education and Vocational Training"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 11,
+              "item_title": "10. Apoio à inscrição de 30 escolas do Concelho no Programa Eco-Escolas desenvolvido pela \"Associação Bandeira Azul da Europa\".",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_11",
+                  "start": 36022,
+                  "end": 36196,
+                  "subject": {
+                    "text": "apoio à Imoedições -- Edições Periódicas e Multimédia, Lda., no âmbito da realização da IX Semana da Reabilitação Urbana do Porto",
+                    "start": 36039,
+                    "end": 36168
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de apoio à Imoedições Lda para realização da IX Semana de Reabilitação Urbana",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 12,
+              "item_title": "11. Aprovação de apoio à Imoedições -- Edições Periódicas e Multimédia, Lda., no âmbito da realização da IX Semana da Reabilitação Urbana do Porto.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_12",
+                  "start": 36197,
+                  "end": 36728,
+                  "subject": {
+                    "text": "apoio à Immersivus Unipessoal, Lda., no âmbito da realização do Magical Garden",
+                    "start": 36214,
+                    "end": 36292
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de apoio à Immersivus Unipessoal, Lda para realização do Magical Garden",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 13,
+              "item_title": "12. Aprovação de apoio à Immersivus Unipessoal, Lda., no âmbito da realização do Magical Garden.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_13",
+                  "start": 36729,
+                  "end": 37714,
+                  "subject": {
+                    "text": "atribuição de apoios -- Bolsas FilmaPorto",
+                    "start": 36746,
+                    "end": 36787
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de apoios - Bolsas FilmaPorto",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 14,
+              "item_title": "13. Aprovação da atribuição de apoios -- Bolsas FilmaPorto.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_14",
+                  "start": 37715,
+                  "end": 37831,
+                  "subject": {
+                    "text": "apoio à ANJE no âmbito da realização da 49.ª Edição do Portugal Fashion",
+                    "start": 37732,
+                    "end": 37803
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de apoio à ANJE para realização da 49.ª Edição do Portugal Fashion",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 15,
+              "item_title": "14. Aprovação de apoio à ANJE no âmbito da realização da 49.ª Edição do Portugal Fashion.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_15",
+                  "start": 37832,
+                  "end": 38078,
+                  "subject": {
+                    "text": "empréstimo de pinturas da coleção do Antigo Museu Municipal do Porto para a exposição \"O Ciclo da Vida\", organizada pelo Museu Nacional Soares dos Reis e Instituto de Ciências Biomédicas Abel Salazar",
+                    "start": 37851,
+                    "end": 38050
+                  },
+                  "summary": null,
+                  "theme": "Ratificação do empréstimo de pinturas à exposição \"O Ciclo da Vida\"",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 16,
+              "item_title": "15. Ratificação do empréstimo de pinturas da coleção do Antigo Museu Municipal do Porto para a exposição \"O Ciclo da Vida\", organizada pelo Museu Nacional Soares dos Reis e Instituto de Ciências Biomédicas Abel Salazar.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_16",
+                  "start": 38079,
+                  "end": 38514,
+                  "subject": {
+                    "text": "Cedência temporária do Violoncelo Montagnana à Casa da Música",
+                    "start": 38083,
+                    "end": 38144
+                  },
+                  "summary": null,
+                  "theme": "Cedência temporária do Violoncelo Montagnana à Casa da Música",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 17,
+              "item_title": "16. Cedência temporária do Violoncelo Montagnana à Casa da Música e ao violoncelista ***************.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_17",
+                  "start": 38515,
+                  "end": 38695,
+                  "subject": {
+                    "text": "Designação dos representantes do Município do Porto na Assembleia Intermunicipal da LIPOR",
+                    "start": 38519,
+                    "end": 38608
+                  },
+                  "summary": null,
+                  "theme": "Designação dos representantes do Município na Assembleia Intermunicipal da LIPOR",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "External Cooperation and International Relations"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 18,
+              "item_title": "17. Designação dos representantes do Município do Porto na Assembleia Intermunicipal da LIPOR.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_18",
+                  "start": 38696,
+                  "end": 39049,
+                  "subject": {
+                    "text": "Designação dos representantes do Município do Porto nas empresas municipais",
+                    "start": 38700,
+                    "end": 38775
+                  },
+                  "summary": null,
+                  "theme": "Designação dos representantes do Município nas empresas municipais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 19,
+              "item_title": "18. Designação dos representantes do Município do Porto nas empresas municipais.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_19",
+                  "start": 39050,
+                  "end": 39366,
+                  "subject": {
+                    "text": "Designação do Fiscal Único nas empresas municipais",
+                    "start": 39054,
+                    "end": 39104
+                  },
+                  "summary": null,
+                  "theme": "Designação do Fiscal Único nas empresas municipais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 20,
+              "item_title": "19. Designação do Fiscal Único nas empresas municipais.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_20",
+                  "start": 39367,
+                  "end": 39548,
+                  "subject": {
+                    "text": "Designação dos representantes do Município do Porto nas entidades com participações locais",
+                    "start": 39371,
+                    "end": 39461
+                  },
+                  "summary": null,
+                  "theme": "Designação dos representantes do Município nas entidades com participações locais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 21,
+              "item_title": "20. Designação dos representantes do Município do Porto nas entidades com participações locais.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_21",
+                  "start": 39549,
+                  "end": 39886,
+                  "subject": {
+                    "text": "Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 -- Freguesias",
+                    "start": 39553,
+                    "end": 39637
+                  },
+                  "summary": null,
+                  "theme": "Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 com as freguesias",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 22,
+              "item_title": "21. Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 -- Freguesias.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_22",
+                  "start": 39887,
+                  "end": 40239,
+                  "subject": {
+                    "text": "Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 -- Associações",
+                    "start": 39891,
+                    "end": 39976
+                  },
+                  "summary": null,
+                  "theme": "Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 com as associações",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 23,
+              "item_title": "22. Renovação dos contratos de cedência com termo no 4.º trimestre de 2021 -- Associações.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_23",
+                  "start": 40240,
+                  "end": 42406,
+                  "subject": {
+                    "text": "Alteração ao Contrato de Permuta e ao Contrato de Desenvolvimento Desportivo celebrados com a Liga Portuguesa de Futebol Profissional",
+                    "start": 40244,
+                    "end": 40377
+                  },
+                  "summary": null,
+                  "theme": "Alteração aos Contratos de Permuta e de Desenvolvimento Desportivo com a LP de Futebol Profissional",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 24,
+              "item_title": "23. Alteração ao Contrato de Permuta e ao Contrato de Desenvolvimento Desportivo celebrados com a Liga Portuguesa de Futebol Profissional.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_24",
+                  "start": 42407,
+                  "end": 43493,
+                  "subject": {
+                    "text": "Prestação de serviços de limpeza de todos os espaços municipais (CPI/13/2021/DMC) -- Decisão de adjudicação e aprovação das respetivas minutas do contrato",
+                    "start": 42411,
+                    "end": 42565
+                  },
+                  "summary": null,
+                  "theme": "Adjudicação e aprovação das minutas do contrato de serviços de limpeza dos espaços municipais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 25,
+              "item_title": "24. Prestação de serviços de limpeza de todos os espaços municipais (CPI/13/2021/DMC) -- Decisão de adjudicação e aprovação das respetivas minutas do contrato.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_25",
+                  "start": 43494,
+                  "end": 43691,
+                  "subject": {
+                    "text": "Aquisição de Seguros, dividido em lotes (CPI/14/2021/DMC) -- Decisão de adjudicação e aprovação da respetiva minuta do contrato",
+                    "start": 43498,
+                    "end": 43625
+                  },
+                  "summary": null,
+                  "theme": "Adjudicação e aprovação da minuta do contrato da aquisição de seguros",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 26,
+              "item_title": "25. Aquisição de Seguros, dividido em lotes (CPI/14/2021/DMC) -- Decisão de adjudicação e aprovação da respetiva minuta do contrato.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_26",
+                  "start": 43692,
+                  "end": 46883,
+                  "subject": {
+                    "text": "Reconhecimento da isenção de IMI e de IMT",
+                    "start": 43696,
+                    "end": 43737
+                  },
+                  "summary": null,
+                  "theme": "Reconhecimento da isenção de IMI e de IMT",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 27,
+              "item_title": "26. Reconhecimento da isenção de IMI e de IMT.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_27",
+                  "start": 46884,
+                  "end": 47401,
+                  "subject": {
+                    "text": "Desafetação de parcela integrada no domínio público municipal -- Rua da Ericeira",
+                    "start": 46888,
+                    "end": 46968
+                  },
+                  "summary": null,
+                  "theme": "Desafetação de parcela integrada no domínio público municipal",
+                  "topics": [
+                    "Land Use Planning",
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 28,
+              "item_title": "27. Desafetação de parcela integrada no domínio público municipal -- Rua da Ericeira.",
+              "subjects": [
+                {
+                  "subject_id": "Porto_cm_002_2021-11-08_28",
+                  "start": 47402,
+                  "end": 47861,
+                  "subject": {
+                    "text": "Aluguer operacional de veículos automóveis ligeiros (CPI/15/2021/DMC) -- Decisão de contratar e submissão à Assembleia Municipal para autorização prévia da assunção de compromissos plurianuais",
+                    "start": 47406,
+                    "end": 47598
+                  },
+                  "summary": null,
+                  "theme": "Contratação e submissão à AM do aluguer operacional de veículos automóveis ligeiros",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications",
+                    "Heritage"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

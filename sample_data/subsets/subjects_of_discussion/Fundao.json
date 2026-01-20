@@ -1,0 +1,255 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Fundao",
+      "minutes": [
+        {
+          "minute_id": "Fundao_cm_014_2021-12-11",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "Aprovação final do “Regulamento do Museu Arqueológico Municipal José Monteiro”",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_1",
+                  "start": 1040,
+                  "end": 3337,
+                  "subject": {
+                    "text": "Aprovação final do “Regulamento do Museu Arqueológico Municipal José Monteiro”",
+                    "start": 3258,
+                    "end": 3336
+                  },
+                  "summary": null,
+                  "theme": "Aprovação final do “Regulamento do Museu Arqueológico Municipal José Monteiro”",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Heritage"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "Ratificação do protocolo de colaboração celebrado entre o Município do Fundão e diversas entidades no âmbito da modernização administrativa – espaços de teletrabalho ou coworking nos territórios do interior",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_2",
+                  "start": 3545,
+                  "end": 6694,
+                  "subject": {
+                    "text": "Ratificação do protocolo de colaboração celebrado entre o Município do Fundão e diversas entidades no âmbito da modernização administrativa – espaços de teletrabalho ou coworking nos territórios do interior",
+                    "start": 6487,
+                    "end": 6693
+                  },
+                  "summary": null,
+                  "theme": "Ratificação do protocolo de colaboração entre o Município e diversas entidades - espaços de teletrabalho/coworking",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Economic Activities",
+                    "External Cooperation and International Relations"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 3,
+              "item_title": "Aprovação da minuta do contrato-programa a celebrar entre o Município do Fundão e a Freguesia de Póvoa de Atalaia e Atalaia do Campo",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_3",
+                  "start": 6828,
+                  "end": 11229,
+                  "subject": {
+                    "text": "Aprovação da minuta do contrato-programa a celebrar entre o Município do Fundão e a Freguesia de Póvoa de Atalaia e Atalaia do Campo",
+                    "start": 8611,
+                    "end": 8743
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da minuta do contrato-programa entre o Município e as Freguesias de Póvoa de Atalaia e Atalaia do Campo",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 4,
+              "item_title": "Atribuição de apoio financeiro – Filarmónica União de Santa Cruz",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_4",
+                  "start": 11295,
+                  "end": 12807,
+                  "subject": {
+                    "text": "Atribuição de apoio financeiro – Filarmónica União de Santa Cruz",
+                    "start": 12742,
+                    "end": 12806
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de apoio financeiro à Filarmónica União de Santa Cruz",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 5,
+              "item_title": "Ação Social Escolar ao 1.º Ciclo de Ensino Básico – ano letivo 2021/2022 – fichas de trabalho",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_5",
+                  "start": 12902,
+                  "end": 20763,
+                  "subject": {
+                    "text": "Ação Social Escolar ao 1.º Ciclo de Ensino Básico – ano letivo 2021/2022 – fichas de trabalho",
+                    "start": 20669,
+                    "end": 20762
+                  },
+                  "summary": null,
+                  "theme": "Comparticipação de fichas de trabalho ao alunos do 1.º ciclo do ensino básico - 2021/2022",
+                  "topics": [
+                    "Education and Vocational Training",
+                    "Social Action"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 6,
+              "item_title": "Aprovação das normas de participação e funcionamento dos expositores do evento “Mostra de Artes e Sabores da Maúnça” – ano 2021 – ratificação de despacho",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_6",
+                  "start": 20918,
+                  "end": 22654,
+                  "subject": {
+                    "text": "Aprovação das normas de participação e funcionamento dos expositores do evento “Mostra de Artes e Sabores da Maúnça” – ano 2021 – ratificação de despacho",
+                    "start": 21689,
+                    "end": 21842
+                  },
+                  "summary": null,
+                  "theme": "Ratificação de despacho das normas dos expositores da Mostra de Artes e Sabores da Maúnça 2021",
+                  "topics": [
+                    "Culture",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 7,
+              "item_title": "Aprovação do regulamento interno do evento “Míscaros – Festival do Cogumelo” – ano 2021",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_7",
+                  "start": 22743,
+                  "end": 25162,
+                  "subject": {
+                    "text": "Aprovação do regulamento interno do evento “Míscaros – Festival do Cogumelo” – ano 2021",
+                    "start": 25074,
+                    "end": 25161
+                  },
+                  "summary": null,
+                  "theme": "Aprovação do regulamento interno do Míscaros – Festival do Cogumelo 2021",
+                  "topics": [
+                    "Culture",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 8,
+              "item_title": "Aprovação das fichas de inscrição para o “XIII Concurso de Árvores de Natal 2021”",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_8",
+                  "start": 25245,
+                  "end": 26300,
+                  "subject": {
+                    "text": "Aprovação das fichas de inscrição para o “XIII Concurso de Árvores de Natal 2021”",
+                    "start": 26218,
+                    "end": 26299
+                  },
+                  "summary": null,
+                  "theme": "Aprovação das fichas de inscrição para o XIII Concurso de Árvores de Natal 2021",
+                  "topics": [
+                    "Education and Vocational Training",
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 9,
+              "item_title": "Indemnização por danos – ************************",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_9",
+                  "start": 26351,
+                  "end": 36804,
+                  "subject": {
+                    "text": "Indemnização por danos – ************************",
+                    "start": 36754,
+                    "end": 36803
+                  },
+                  "summary": null,
+                  "theme": "Proposta de indeferimento do pedido de indemnização por danos requerido por um cidadão",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 10,
+              "item_title": "Indemnização por danos – *****************************",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_10",
+                  "start": 36860,
+                  "end": 50099,
+                  "subject": {
+                    "text": "Indemnização por danos – *****************************",
+                    "start": 50044,
+                    "end": 50098
+                  },
+                  "summary": null,
+                  "theme": "Proposta de indeferimento do pedido de indemnização por danos requerido por um cidadão",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 11,
+              "item_title": "Aprovação das normas de participação no “Concurso de Presépios 2021”",
+              "subjects": [
+                {
+                  "subject_id": "Fundao_cm_014_2021-12-11_11",
+                  "start": 50169,
+                  "end": 51464,
+                  "subject": {
+                    "text": "Aprovação das normas de participação no “Concurso de Presépios 2021”",
+                    "start": 51394,
+                    "end": 51462
+                  },
+                  "summary": null,
+                  "theme": "Aprovação das normas de participação no Concurso de Presépios 2021",
+                  "topics": [
+                    "Culture",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

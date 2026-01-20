@@ -1,0 +1,623 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Alandroal",
+      "minutes": [
+        {
+          "minute_id": "Alandroal_cm_002_2021-10-22",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "1.  PEDIDO DE MARCAÇÃO DE REUNIÃO EXTRAORDINÁRIA DA ASSEMBLEIA MUNICIPAL",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_1",
+                  "start": 632,
+                  "end": 941,
+                  "subject": {
+                    "text": "pedido de marcação de reunião extraordinária da Assembleia Municipal",
+                    "start": 872,
+                    "end": 940
+                  },
+                  "summary": null,
+                  "theme": "Pedido de marcação de reunião extraordinária da Assembleia Municipal",
+                  "topics": [
+                    "Other"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "2. APROVAÇÃO DE ATA",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_2",
+                  "start": 963,
+                  "end": 1339,
+                  "subject": {
+                    "text": "ata n.º 21, de 22.09.2021",
+                    "start": 1313,
+                    "end": 1338
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata n.º 21, de 22.09.2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 3,
+              "item_title": "3. PROCESSOS E REQUERIMENTOS DIVERSOS",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_3",
+                  "start": 1379,
+                  "end": 2172,
+                  "subject": {
+                    "text": "pedido de transporte do Agrupamento de Escolas de Vila Viçosa",
+                    "start": 2110,
+                    "end": 2171
+                  },
+                  "summary": null,
+                  "theme": "Pedido de transporte do Agrupamento de Escolas de Vila Viçosa",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Education and Vocational Training"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_4",
+                  "start": 2174,
+                  "end": 2600,
+                  "subject": {
+                    "text": "utilização do Fórum Cultural por parte da Igreja Evangélica, Assembleia de Deus",
+                    "start": 2520,
+                    "end": 2599
+                  },
+                  "summary": null,
+                  "theme": "Utilização do Fórum Cultural pela Igreja Evangélica Assembleia de Deus",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_5",
+                  "start": 2602,
+                  "end": 3059,
+                  "subject": {
+                    "text": "pedido de apoio da Santa Casa da Misericórdia de cedência de casa de madeira e três latas de tinta branca",
+                    "start": 2953,
+                    "end": 3058
+                  },
+                  "summary": null,
+                  "theme": "Pedido de apoio da Santa Casa da Misericórdia de cedência de materiais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Social Action"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_6",
+                  "start": 3061,
+                  "end": 3970,
+                  "subject": {
+                    "text": "pedido de apoio da Delegação da Cruz Vermelha de Santiago Maior para o funcionamento da Creche de Santiago Maior",
+                    "start": 3857,
+                    "end": 3969
+                  },
+                  "summary": null,
+                  "theme": "Pedido de apoio da Delegação da Cruz Vermelha de Santiago Maior para funcionamento da Creche",
+                  "topics": [
+                    "Education and Vocational Training",
+                    "Social Action"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_7",
+                  "start": 3972,
+                  "end": 4281,
+                  "subject": {
+                    "text": "criação de lugares de estacionamento da Rua Monte dos Moreiras, na Aldeia da Venda",
+                    "start": 4198,
+                    "end": 4280
+                  },
+                  "summary": null,
+                  "theme": "Criação de lugares de estacionamento da Rua Monte dos Moreiras",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_8",
+                  "start": 4283,
+                  "end": 4642,
+                  "subject": {
+                    "text": "colocação de bandas redutoras de velocidade, estacionamento proibido e fim de estacionamento no Bairro Inácio Melrinho",
+                    "start": 4509,
+                    "end": 4627
+                  },
+                  "summary": null,
+                  "theme": "Colocação de bandas redutoras de velocidade, estacionamento proibido e fim de estacionamento no Bairro Inácio Melrinho",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_9",
+                  "start": 4644,
+                  "end": 4919,
+                  "subject": {
+                    "text": "pagamento de água em quatro prestações mensais a **********************",
+                    "start": 4847,
+                    "end": 4918
+                  },
+                  "summary": null,
+                  "theme": "Pagamento de água em quatro prestações mensais por um cidadão",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 4,
+              "item_title": "4. PROTOCOLO ENTRE A CÂMARA MUNICIPAL DE ALANDROAL E A METEOALENTEJO, ASSOCIAÇÃO DE METEOROLOGIA PARA A INSTALAÇÃO DE UMA ESTAÇÃO METEOROLÓGICA EM ALANDROAL",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_10",
+                  "start": 5078,
+                  "end": 5982,
+                  "subject": {
+                    "text": "celebração de Protocolo entre a Câmara Municipal de Alandroal e a MeteoAlentejo, Associação de Meteorologia para a instalação de uma Estação Meteorológica em Alandroal",
+                    "start": 5814,
+                    "end": 5981
+                  },
+                  "summary": null,
+                  "theme": "Celebração de Protocolo entre a Câmara e a MeteoAlentejo",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Environment",
+                    "External Cooperation and International Relations"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 5,
+              "item_title": "5. ATRIBUIÇÃO DE SUBSÍDIOS DE AÇÃO SOCIAL ESCOLAR",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_11",
+                  "start": 6034,
+                  "end": 6733,
+                  "subject": {
+                    "text": "atribuição de treze subsídios de Ação Social Escolar",
+                    "start": 6680,
+                    "end": 6732
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de treze subsídios de Ação Social Escolar",
+                  "topics": [
+                    "Education and Vocational Training",
+                    "Social Action"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 6,
+              "item_title": "6. ATRIBUIÇÃO DE VALES DE COMPRAS ALIMENTARES",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_12",
+                  "start": 6781,
+                  "end": 7214,
+                  "subject": {
+                    "text": "atribuição de vales de compras alimentares",
+                    "start": 7171,
+                    "end": 7213
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de vales de compras alimentares a dois cidadãos",
+                  "topics": [
+                    "Social Action"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 7,
+              "item_title": "7. AUTORIZAÇÃO GENÉRICA DE ASSUNÇÃO PRÉVIA DE COMPROMISSOS PLURIANUAIS",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_13",
+                  "start": 7287,
+                  "end": 8118,
+                  "subject": {
+                    "text": "autorização genérica de assunção prévia de compromissos plurianuais",
+                    "start": 8050,
+                    "end": 8117
+                  },
+                  "summary": null,
+                  "theme": "Autorização genérica de assunção prévia de compromissos plurianuais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 8,
+              "item_title": "8. ASSUNÇÃO PRÉVIA DE COMPROMISSOS PLURIANUAIS",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_14",
+                  "start": 8167,
+                  "end": 9557,
+                  "subject": {
+                    "text": "assunção prévia de compromissos plurianuais",
+                    "start": 9513,
+                    "end": 9556
+                  },
+                  "summary": null,
+                  "theme": "Assunção prévia de compromissos plurianuais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 9,
+              "item_title": "9. ABATE DE VEÍCULOS",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_15",
+                  "start": 9580,
+                  "end": 10048,
+                  "subject": {
+                    "text": "abate de veículos",
+                    "start": 10030,
+                    "end": 10047
+                  },
+                  "summary": null,
+                  "theme": "Abate de veículos",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications",
+                    "Heritage"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 10,
+              "item_title": "10. ALIENAÇÃO DOS LOTES 1 E 2 DO LOTEAMENTO DA ZONA OFICINAL DE SANTIAGO MAIOR",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_16",
+                  "start": 10129,
+                  "end": 10846,
+                  "subject": {
+                    "text": "alienação dos lotes 1 e 2 do Loteamento da Zona Oficinal de Santiago Maior",
+                    "start": 10771,
+                    "end": 10845
+                  },
+                  "summary": null,
+                  "theme": "Alienação dos lotes 1 e 2 do Loteamento da Zona Oficinal de Santiago Maior",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Land Use Planning"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 11,
+              "item_title": "11. PROPOSTA DE CORREÇÃO MATERIAL AO REGULAMENTO DO PLANO DE SALVAGUARDA E REABILITAÇÃO DA VILA DE JUROMENHA",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_17",
+                  "start": 10957,
+                  "end": 12655,
+                  "subject": {
+                    "text": "proposta de correção material ao Regulamento do Plano de Salvaguarda e Reabilitação da Vila de Juromenha",
+                    "start": 12550,
+                    "end": 12654
+                  },
+                  "summary": null,
+                  "theme": "Correção material do Regulamento do Plano de Salvaguarda e Reabilitação da Vila de Juromenha",
+                  "topics": [
+                    "Heritage",
+                    "Public Works",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 12,
+              "item_title": "12. EMPREITADA \"CAPELA DA BOA NOVA EM TERENA -- OBRAS DE CONSERVAÇÃO\" -- PRORROGAÇÃO DO PRAZO DA EMPREITADA (RATIFICAÇÃO DA DECISÃO)",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_18",
+                  "start": 12790,
+                  "end": 13441,
+                  "subject": {
+                    "text": "prorrogação do prazo da empreitada \"Capela da Boa Nova em Terena -- Obras de conservação\"",
+                    "start": 13351,
+                    "end": 13440
+                  },
+                  "summary": null,
+                  "theme": "Prorrogação do prazo da empreitana de conservação da Capela da Boa Nova em Terena",
+                  "topics": [
+                    "Heritage",
+                    "Public Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 13,
+              "item_title": "13. EMPREITADA \"ÁREA RECREATIVA DAS AZENHAS D'EL REI -- PRAIA FLUVIAL\" - TRABALHOS COMPLEMENTARES / MINUTA DO 2.º ADICIONAL AO CONTRATO (RATIFICAÇÃO DA DECISÃO)",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_19",
+                  "start": 13604,
+                  "end": 14436,
+                  "subject": {
+                    "text": "trabalhos complementares / minuta do 2.º adicional ao contrato da empreitada \"Área Recreativa das Azenhas D'El Rei -- Praia Fluvial\"",
+                    "start": 14303,
+                    "end": 14435
+                  },
+                  "summary": null,
+                  "theme": "Ratificação dos trabalhos complementares da empreitada na Praia Fluvial de Azenhas D'El Rei",
+                  "topics": [
+                    "Public Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 14,
+              "item_title": "14. EMPREITADA \"FORTALEZA DE JUROMENHA -- CONSOLIDAÇÃO E RESTAURO DOS PARAMENTOS DO PERÍMETRO ABALUARTADO EXTERIOR E CERCA ISLÂMICA E MEDIEVAL INTERIOR\" -- APROVAÇÃO DO PLANO DE SEGURANÇA E SAÚDE (RATIFICAÇÃO DA DECISÃO)",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_20",
+                  "start": 14659,
+                  "end": 15251,
+                  "subject": {
+                    "text": "Plano de Segurança e Saúde da empreitada \"Fortaleza de Juromenha -- Consolidação e restauro dos paramentos do perímetro abaluartado exterior e cerca islâmica e medieval interior\"",
+                    "start": 15072,
+                    "end": 15250
+                  },
+                  "summary": null,
+                  "theme": "Ratificação do Plano de Segurança e Saúde da empreitada na Fortaleza de Juromenha",
+                  "topics": [
+                    "Heritage",
+                    "Public Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 15,
+              "item_title": "15. APROVAÇÃO DA REVISÃO DO PROJETO DE ARQUITETURA DA CASA DO CASTELO NO ALANDROAL; REVISÃO/ELABORAÇÃO DOS PROJETOS DE ESPECIALIDADE DA OBRA DE REMODELAÇÃO E AMPLIAÇÃO DO EDIFÍCIO DA CASA DO CASTELO, INCLUINDO OS ARRANJOS EXTERIORES E PROJETO DE EXECUÇÃO (PAISAGISMO) PARA A OBRA DE ARRANJOS EXTERIORES (JARDIM) ENVOLVENTE À CASA DO CASTELO EXISTENTE NO INTERIOR DO CASTELO DE ALANDROAL, BEM COMO PARA O OLIVAL DE ACESSO RESTRITO NUMA ÁREA TOTAL DE INTERVENÇÃO DE, APROXIMADAMENTE, 2.500 M2\" (REVISÃO)",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_21",
+                  "start": 15755,
+                  "end": 17160,
+                  "subject": {
+                    "text": "revisão do projeto de arquitetura da Casa do Castelo no Alandroal; a revisão/elaboração dos projetos de Especialidade da Obra de Remodelação e ampliação do Edifício da Casa do Castelo, incluindo os Arranjos Exteriores e Projeto de execução (Paisagismo) para a obra de arranjos exteriores (Jardim) envolvente à Casa do Castelo existente no Interior do Castelo de Alandroal, bem como para o Olival de acesso restrito numa área total de intervenção de, aproximadamente, 2.500 m²",
+                    "start": 16683,
+                    "end": 17158
+                  },
+                  "summary": null,
+                  "theme": "Revisão/elaboração de projetos da obra de remodelação e ampliação da Casa do Castelo",
+                  "topics": [
+                    "Heritage",
+                    "Public Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 16,
+              "item_title": "16. REDE DE DRENAGEM DE ÁGUAS RESIDUAIS URBANAS E REDE DE ABASTECIMENTO DE ÁGUA - RAMAL DE MONTOITO - CASAS NOVAS DE MARES - APROVAÇÃO DO PROJETO DE EXECUÇÃO",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_22",
+                  "start": 17320,
+                  "end": 18077,
+                  "subject": {
+                    "text": "projeto de execução da rede de drenagem de águas residuais urbanas e rede de abastecimento de água - Ramal de Montoito - Casas Novas de Mares",
+                    "start": 17935,
+                    "end": 18076
+                  },
+                  "summary": null,
+                  "theme": "Execução da rede de drenagem de águas residuais urbanas e rede de abastecimento de água",
+                  "topics": [
+                    "Environment",
+                    "Public Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 17,
+              "item_title": "17. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_23",
+                  "start": 18121,
+                  "end": 18454,
+                  "subject": {
+                    "text": "especialidades relativas ao processo de obras n.º ***** -- EDIFIC",
+                    "start": 18388,
+                    "end": 18453
+                  },
+                  "summary": null,
+                  "theme": "Aprovação das especialidades relativas a processo de obras",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 18,
+              "item_title": "18. PROCESSO DE OBRAS N.º **** -- LEGALIZAÇÃO",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_24",
+                  "start": 18502,
+                  "end": 18845,
+                  "subject": {
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º **** -- LEGALIZAÇÃO",
+                    "start": 18768,
+                    "end": 18844
+                  },
+                  "summary": null,
+                  "theme": "Legalização de projeto de arquitetura",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 19,
+              "item_title": "19. PROCESSO DE OBRAS N.º **** -- LICCOMB",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_25",
+                  "start": 18889,
+                  "end": 19241,
+                  "subject": {
+                    "text": "instalação de posto de combustível referente ao processo de obras n.º **** -- LICCOMB",
+                    "start": 19155,
+                    "end": 19240
+                  },
+                  "summary": null,
+                  "theme": "Instalação de posto de combustível",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 20,
+              "item_title": "20. Processo de obras n.º ***** -- EDIFIC",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_26",
+                  "start": 19285,
+                  "end": 19624,
+                  "subject": {
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
+                    "start": 19551,
+                    "end": 19623
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de projeto de arquitetura",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 21,
+              "item_title": "21. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_27",
+                  "start": 19668,
+                  "end": 20025,
+                  "subject": {
+                    "text": "projeto de arquitetura e especialidades relativas ao processo de obras n.º ***** -- EDIFIC",
+                    "start": 19934,
+                    "end": 20024
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de projeto de arquitetura e especialidades",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 22,
+              "item_title": "22. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_28",
+                  "start": 20069,
+                  "end": 20408,
+                  "subject": {
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
+                    "start": 20335,
+                    "end": 20407
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de projeto de arquitetura",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 23,
+              "item_title": "23. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_29",
+                  "start": 20452,
+                  "end": 20791,
+                  "subject": {
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
+                    "start": 20718,
+                    "end": 20790
+                  },
+                  "summary": null,
+                  "theme": "Aprovação de projeto de arquitetura",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 24,
+              "item_title": "24. RATIFICAÇÕES ORÇAMENTAIS",
+              "subjects": [
+                {
+                  "subject_id": "Alandroal_cm_002_2021-10-22_30",
+                  "start": 20822,
+                  "end": 21136,
+                  "subject": {
+                    "text": "alterações orçamentais",
+                    "start": 21113,
+                    "end": 21135
+                  },
+                  "summary": null,
+                  "theme": "Alterações orçamentais",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

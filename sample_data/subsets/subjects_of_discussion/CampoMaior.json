@@ -1,0 +1,206 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Campomaior",
+      "minutes": [
+        {
+          "minute_id": "Campomaior_cm_023_2021-11-17",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "-FINANÇAS MUNICIPAIS:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_1",
+                  "start": 1103,
+                  "end": 1305,
+                  "subject": {
+                    "text": "Operações Orçamentais respeitante ao dia doze de novembro do ano dois mil e vinte e um",
+                    "start": 1116,
+                    "end": 1202
+                  },
+                  "summary": null,
+                  "theme": "Operações orçamentais respeitantes a 12.11.2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "-OBRAS:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_2",
+                  "start": 1314,
+                  "end": 3291,
+                  "subject": {
+                    "text": "REGIME DE PROPRIEDADE HORIZONTAL",
+                    "start": 3258,
+                    "end": 3290
+                  },
+                  "summary": null,
+                  "theme": "Reunião dos requisitos legais para instituição do regime de propriedade horizontal em prédio",
+                  "topics": [
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 3,
+              "item_title": "-DIVERSOS:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_3",
+                  "start": 3303,
+                  "end": 5197,
+                  "subject": {
+                    "text": "PEDIDO DE CERTIDÃO DE ISENÇÃO DE LICENÇA DE\nHABITABILIDADE DA FRAÇÃO * PARA O PRÉDIO URBANO",
+                    "start": 3304,
+                    "end": 3395
+                  },
+                  "summary": null,
+                  "theme": "Emissão de certidão de isenção de licença de habitabilidade para prédio urbano",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Private Works"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 4,
+              "item_title": "-PROCEDIMENTOS:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_4",
+                  "start": 5214,
+                  "end": 6965,
+                  "subject": {
+                    "text": "REVISÃO DE PREÇOS DEFINITIVA, DA EMPREITADA DE REQUALIFICAÇÃO DA FORTIFICAÇÃO ABALUARTADA DE CAMPO MAIOR",
+                    "start": 5228,
+                    "end": 5332
+                  },
+                  "summary": null,
+                  "theme": "Revisão de preços definitiva da empreitada de requalificação da Fortificação Abaluartada de Campo Maior",
+                  "topics": [
+                    "Heritage",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_5",
+                  "start": 6966,
+                  "end": 8750,
+                  "subject": {
+                    "text": "REVISÃO DE PREÇOS DEFINITIVA, DA EMPREITADA DE CRIAÇÃO DO CENTRO INTERPRETATIVO E ACOLHIMENTO DE VISITANTES DA FORTIFICAÇÃO ABALUARTADA DE CAMPO MAIOR",
+                    "start": 6980,
+                    "end": 7130
+                  },
+                  "summary": null,
+                  "theme": "Revisão de preços da empreitada de criação do Centro Interpretativo e Acolhimento da Fortificação Abaluartada",
+                  "topics": [
+                    "Culture",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_6",
+                  "start": 8751,
+                  "end": 12193,
+                  "subject": {
+                    "text": "PRORROGAÇÃO POR MAIS CENTO E VINTE DIAS DE CALENDÁRIO, TERMINANDO EM 19 DE MARÇO DE 2022, A TÍTULO GRACIOSO E SEM DIREITO A REVISÃO DE PREÇOS A EMPREITADA DE CRIAÇÃO DO CENTRO DE INTELIGÊNCIA COMPETITIVA",
+                    "start": 11715,
+                    "end": 11918
+                  },
+                  "summary": null,
+                  "theme": "Prorrogação do prazo da empreitada do CIC",
+                  "topics": [
+                    "Science",
+                    "Public Works",
+                    "Economic Activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 5,
+              "item_title": "-OUTRAS DELIBERAÇÕES:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_7",
+                  "start": 12216,
+                  "end": 15111,
+                  "subject": {
+                    "text": "PRORROGAÇÃO DO PROGRAMA OMDLD DE 2019 PELO PERÍODO DE 12 MESES, COM EFEITOS A PARTIR DE 01 DE NOVEMBRO A DIVERSOS DESEMPREGADOS",
+                    "start": 14622,
+                    "end": 14749
+                  },
+                  "summary": null,
+                  "theme": "Prorrogação do programa OMDLD de 2019 por 12 meses a três cidadãos",
+                  "topics": [
+                    "Social Action",
+                    "Economic Activities"
+                  ]
+                },
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_8",
+                  "start": 15112,
+                  "end": 16715,
+                  "subject": {
+                    "text": "ESCALA DE TURNOS DE SERVIÇOS DAS FARMÁCIAS PARA O ANO DOIS MIL E VINTE E DOIS",
+                    "start": 16637,
+                    "end": 16714
+                  },
+                  "summary": null,
+                  "theme": "Retificação da escala de turnos de serviços das farmácias para 2022",
+                  "topics": [
+                    "Health"
+                  ]
+                },
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_9",
+                  "start": 16716,
+                  "end": 16990,
+                  "subject": {
+                    "text": "DOAÇÃO DA BROCHURA “À MESA COM POESIA” DOADO À BIBLIOTECA JOÃO DUBRAZ",
+                    "start": 16920,
+                    "end": 16989
+                  },
+                  "summary": null,
+                  "theme": "Doação da brochura \"À Mesa com Poesia\" à Biblioteca João Dubraz por um cidadão",
+                  "topics": [
+                    "Culture"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 6,
+              "item_title": "-APROVAÇÃO EM MINUTA:",
+              "subjects": [
+                {
+                  "subject_id": "Campomaior_cm_023_2021-11-17_10",
+                  "start": 17013,
+                  "end": 17246,
+                  "subject": {
+                    "text": "PRESENTE ATA EM MINUTA",
+                    "start": 17149,
+                    "end": 17171
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da presente ata em minuta",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

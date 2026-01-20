@@ -1,0 +1,560 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Guimaraes",
+      "minutes": [
+        {
+          "minute_id": "Guimaraes_cm_019_2021-11-18",
+          "agenda_items": [
+            {
+              "item_id": 1,
+              "item_title": "INFORMAÇÕES",
+              "subjects": [
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_1",
+                  "start": 856,
+                  "end": 2355,
+                  "subject": {
+                    "text": "“Candidatura anual ao PGR – Programa de Generalização do Fornecimento de Refeições Escolares aos Alunos do 1º Ciclo do Ensino Básico – Ano letivo 2021/2022",
+                    "start": 908,
+                    "end": 1063
+                  },
+                  "summary": null,
+                  "theme": "Informação sobre a Candidatura anual ao PGR",
+                  "topics": [
+                    "Education and Vocational Training"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_2",
+                  "start": 2357,
+                  "end": 2691,
+                  "subject": {
+                    "text": "despacho do Presidente da Câmara, datado de 28 de setembro de 2021",
+                    "start": 2363,
+                    "end": 2429
+                  },
+                  "summary": null,
+                  "theme": "Comunicação da aprovação da conta e do auto finais da empreitada da Alameda Rosas Guimarães",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_3",
+                  "start": 2693,
+                  "end": 2905,
+                  "subject": {
+                    "text": "situação económica e financeira do Município reportada a 30 de junho de 2021",
+                    "start": 2747,
+                    "end": 2823
+                  },
+                  "summary": null,
+                  "theme": "Informação sobre a situação económica e financeira do Município de 2021-06-30",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": 2,
+              "item_title": "DELIBERAÇÕES",
+              "subjects": [
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_4",
+                  "start": 2920,
+                  "end": 3059,
+                  "subject": {
+                    "text": "APROVAÇÃO DA ATA DA REUNIÃO ORDINÁRIA DA CÂMARA MUNICIPAL, REALIZADA EM 4 DE NOVEMBRO DE 2021",
+                    "start": 2929,
+                    "end": 3022
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata da reunião ordinária de 2021-11-04",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_5",
+                  "start": 3061,
+                  "end": 4761,
+                  "subject": {
+                    "text": "VIA CICLÁVEL DO LUGAR DO REBOTO À VILA DE PEVIDÉM E REPERFILAMENTO DA RUA DA MUDA – SELHO S. CRISTÓVÃO – RESPOSTA A PEDIDOS DE ESCLARECIMENTOS/ERROS E OMISSÕES – RATIFICAÇÃO",
+                    "start": 3078,
+                    "end": 3251
+                  },
+                  "summary": null,
+                  "theme": "Ratificação da resposta ao pedido de esclarecimentos da empreitada de Selho S. Cristóvão",
+                  "topics": [
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_6",
+                  "start": 4763,
+                  "end": 6167,
+                  "subject": {
+                    "text": "UNIÃO DAS FREGUESIAS DE BRITEIROS SANTO ESTÊVÃO E DONIM – SUBSÍDIO - ANO DE 2019 – REVISÃO",
+                    "start": 4776,
+                    "end": 4866
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da alteração do prazo de atribuição de subsído à União das Freguesias de Briteiros Santo Estêvão e Donim",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_7",
+                  "start": 6169,
+                  "end": 7873,
+                  "subject": {
+                    "text": "FREGUESIA DE PONTE – DELEGAÇÃO DE COMPETÊNCIAS E SUBSÍDIO – DELIBERAÇÃO DE 16/11/2020",
+                    "start": 6182,
+                    "end": 6267
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da revogação da deliberação de 2020-11-16 e celebração de CIDC na Freguesia de Ponte",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_8",
+                  "start": 7875,
+                  "end": 9287,
+                  "subject": {
+                    "text": "FREGUESIA DE CREIXOMIL – SUBSÍDIO - ANO DE 2018 – REVISÃO",
+                    "start": 7888,
+                    "end": 7945
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da revisão do contrato de atribuição de subsídio da Freguesia de Creixomil",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_9",
+                  "start": 9289,
+                  "end": 10712,
+                  "subject": {
+                    "text": "FREGUESIA DE GUARDIZELA – SUBSÍDIO - ANO DE 2020 – REVISÃO",
+                    "start": 9302,
+                    "end": 9360
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da revisão do apoio atribuído à Freguesia de Guardizela",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Public Works"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_10",
+                  "start": 10714,
+                  "end": 11398,
+                  "subject": {
+                    "text": "AJUSTE DIRETO N.º 62-21 - AQUISIÇÃO DE SERVIÇOS – CERTIFICAÇÃO LEGAL DE CONTAS",
+                    "start": 10748,
+                    "end": 10826
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM do ajuste direto n.º 62-21 para aquisição de serviços",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_11",
+                  "start": 11399,
+                  "end": 13344,
+                  "subject": {
+                    "text": "AQUISIÇÃO DE SERVIÇOS - AQUISIÇÃO DE BENS — GASÓLEO RODOVIÁRIO A GRANEL - REPARTIÇÃO DE ENCARGOS/DESPESAS PLURIANUAIS - CATIVAÇÃO PRÉVIA — INSCRIÇÃO NOS ORÇAMENTOS DE 2022 A 2025",
+                    "start": 11409,
+                    "end": 11587
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM dos compromissos plurianuais referentes à aquisição de gasóleo rodoviário a granel",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_12",
+                  "start": 13346,
+                  "end": 15139,
+                  "subject": {
+                    "text": "AJUSTE DIRETO N.º 63/21 - AQUISIÇÃO DE SERVIÇOS DE MONOTORIZAÇÃO DE MEDIA - REPARTIÇÃO DE ENCARGOS/DESPESAS PLURIANUAIS - CATIVAÇÃO PRÉVIA",
+                    "start": 13380,
+                    "end": 13518
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM dos compromissos plurianuais referentes à aquisição de serviços de monotorização de media",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_13",
+                  "start": 15141,
+                  "end": 16230,
+                  "subject": {
+                    "text": "VIMÁGUA - EMPRESA DE ÁGUA E SANEAMENTO DE GUIMARÃES E VIZELA, EIM, SA – MINUTA DO CONTRATO DE GESTÃO DO GESTOR PÚBLICO",
+                    "start": 15166,
+                    "end": 15284
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da Minuta do Contrato de Gestão do Gestor Público da Vimágua",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Environment"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_14",
+                  "start": 16232,
+                  "end": 17512,
+                  "subject": {
+                    "text": "VIMÁGUA - EMPRESA DE ÁGUA E SANEAMENTO DE GUIMARÃES E VIZELA E.I.M. S.A. – PROPOSTA DE DESIGNAÇÃO DO FISCAL ÚNICO PARA O MANDATO 2021-2025",
+                    "start": 16257,
+                    "end": 16395
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da proposta de designação do Fiscal Único da Vimágua",
+                  "topics": [
+                    "Environment"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_15",
+                  "start": 17514,
+                  "end": 19018,
+                  "subject": {
+                    "text": "ASSOCIAÇÃO PARA A PROMOÇÃO DO DESENVOLVIMENTO SUSTENTÁVEL - LABORATÓRIO DA PAISAGEM DE\nGUIMARÃES - DESIGNAÇÃO DOS REPRESENTANTES DO MUNICÍPIO DE GUIMARÃES NOS ÓRGÃOS SOCIAIS",
+                    "start": 17539,
+                    "end": 17712
+                  },
+                  "summary": null,
+                  "theme": "Designação dos representantes do Município nos órgãos sociais do Laboratório da Paisagem",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Land Use Planning"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_16",
+                  "start": 19020,
+                  "end": 21398,
+                  "subject": {
+                    "text": "FIXAÇÃO E DIVULGAÇÃO DA TAXA DE ATUALIZAÇÃO TARIFÁRIA 2022 – RATIFICAÇÃO",
+                    "start": 19031,
+                    "end": 19103
+                  },
+                  "summary": null,
+                  "theme": "Fixação e divulgação da Taxa de Atualização Tarifária para 2022",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_17",
+                  "start": 21400,
+                  "end": 24950,
+                  "subject": {
+                    "text": "PROGRAMA RETOMAR GUIMARÃES:\nALTERAÇÃO DOS BENEFICIÁRIOS DO PROGRAMA",
+                    "start": 21424,
+                    "end": 21491
+                  },
+                  "summary": null,
+                  "theme": "Submissão à AM da alteração dos beneficiários do programa Retomar Guimarães",
+                  "topics": [
+                    "Economic Activities"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_18",
+                  "start": 24952,
+                  "end": 28286,
+                  "subject": {
+                    "text": "RELATÓRIO DE ANÁLISE DE ATRIBUIÇÃO DE APOIOS NÃO REEMBOLSÁVEIS PREVISTOS NO REGULAMENTO DO PROGRAMA “RETOMAR GUIMARÃES — PROGRAMA EXTRAORDINÁRIO DE APOIO DIRETO À ECONOMIA LOCAL” – EDITAL N.º 671/2021 DE 16 DE JUNHO – REVOGAÇÃO DA DELIBERAÇÃO DE 4 DE NOVEMBRO DE 2021 E NOVA APROVAÇÃO DO RELATÓRIO DE ANÁLISE",
+                    "start": 24976,
+                    "end": 25284
+                  },
+                  "summary": null,
+                  "theme": "Revogação da deliberação de 2021-11-04 e aprovação do relatório de análise do programa Retomar Guimarães",
+                  "topics": [
+                    "Economic Activities"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_19",
+                  "start": 28288,
+                  "end": 31355,
+                  "subject": {
+                    "text": "TEACH FOR PORTUGAL ASSOCIAÇÃO - PROJETO TEACH FOR ALL – PROGRAMA DE DESENVOLVIMENTO DE LIDERANÇA NOS AGRUPAMENTOS DE ESCOLAS DE S. TORCATO, FERNANDO TÁVORA E ABAÇÃO, DENOMINADO \"PROGRAMA\"",
+                    "start": 28299,
+                    "end": 28486
+                  },
+                  "summary": null,
+                  "theme": "Aprovação do Protocolo de Cooperação entre o Município e a Teach for Portugal",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Education and Vocational Training",
+                    "External Cooperation and International Relations"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_20",
+                  "start": 31357,
+                  "end": 32755,
+                  "subject": {
+                    "text": "ATRIBUIÇÃO DE APOIOS AOS ALUNOS DO 1.º CEB PARA AQUISIÇÃO DE LIVROS DE FICHAS E/OU CADERNOS DE ATIVIDADES – ANO LETIVO 2021/2022 – RETIFICAÇÃO DA DELIBERAÇÃO DE CÂMARA DE 29 DE JULHO DE 2021",
+                    "start": 31368,
+                    "end": 31558
+                  },
+                  "summary": null,
+                  "theme": "Retificação da deliberação de 2021-07-29 relativa à atribuição de apoios ao 1.º CEB",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Education and Vocational Training",
+                    "Social Action"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_21",
+                  "start": 32757,
+                  "end": 34689,
+                  "subject": {
+                    "text": "TESTES DE ANTIGÉNIO REALIZADOS EM SETEMBRO E OUTUBRO\nDE 2021 – RATIFICAÇÃO",
+                    "start": 32765,
+                    "end": 32839
+                  },
+                  "summary": null,
+                  "theme": "Ratificação da lista dos testes de antigénio realizados em setembro e outubro de 2021",
+                  "topics": [
+                    "Health"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_22",
+                  "start": 34691,
+                  "end": 35430,
+                  "subject": {
+                    "text": "RATIFICAÇÃO DOS APOIOS CONCEDIDOS POR CONTA DO FUNDO DE MANEIO DE OUTUBRO DE 2021",
+                    "start": 34705,
+                    "end": 34786
+                  },
+                  "summary": null,
+                  "theme": "Ratificação dos apoios concedidos por conta do fundo de maneio de outubro de 2021",
+                  "topics": [
+                    "Social Action"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_23",
+                  "start": 35432,
+                  "end": 35808,
+                  "subject": {
+                    "text": "CASTREJA – COOPERATIVA DE APOIO SOCIAL E CULTURAL, CRL - CEDÊNCIA DE AUTOCARRO – RATIFICAÇÃO",
+                    "start": 35446,
+                    "end": 35538
+                  },
+                  "summary": null,
+                  "theme": "Cedência de autocarro à Castreja",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_24",
+                  "start": 35810,
+                  "end": 36564,
+                  "subject": {
+                    "text": "MOVEBRITO – PROJETO DE INTERVENÇÃO SOCIAL - CEDÊNCIA DE AUTOCARRO",
+                    "start": 35824,
+                    "end": 35889
+                  },
+                  "summary": null,
+                  "theme": "Cedência de autocarro à MoveBrito",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Social Action"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_25",
+                  "start": 36566,
+                  "end": 38991,
+                  "subject": {
+                    "text": "FESTAS NICOLINAS 2021 – APOIOS A CONCEDER",
+                    "start": 36576,
+                    "end": 36617
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de apoios à AAELG e à Comissão de Festas Nicolinas 2021",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Heritage",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_26",
+                  "start": 38993,
+                  "end": 40310,
+                  "subject": {
+                    "text": "ASSOCIAÇÃO DOS AMIGUINHOS DO MUSEU ALBERTO SAMPAIO – EDIÇÃO DE “A FORÇA DA PALAVRA” - ATRIBUIÇÃO DE SUBSÍDIO",
+                    "start": 39003,
+                    "end": 39111
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de subsídio à Associação dos Amiguinhos do Museu Alberto Sampaio",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Culture"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_27",
+                  "start": 40312,
+                  "end": 41101,
+                  "subject": {
+                    "text": "CORPO NACIONAL DE ESCUTAS – AGRUPAMENTO Nº 428 ABAÇÃO - CEDÊNCIA DE AUTOCARRO",
+                    "start": 40322,
+                    "end": 40399
+                  },
+                  "summary": null,
+                  "theme": "Cedência de autocarro ao CNE - Agrupamento n.º 28 Abação",
+                  "topics": [
+                    "Traffic, Transport, and Communications"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_28",
+                  "start": 41103,
+                  "end": 42598,
+                  "subject": {
+                    "text": "ATRIBUIÇÃO DE SUBSÍDIO AO CLUBE DESPORTIVO XICO ANDEBOL PARA REALIZAÇÃO DOS EVENTOS DESPORTIVOS FESTAND E TORNEIO DE VETERANOS – REVISÃO DO CONTRATO-PROGRAMA",
+                    "start": 41114,
+                    "end": 41271
+                  },
+                  "summary": null,
+                  "theme": "Revisão do Contrato Programa para atribuição de subsídio ao Clube Desportivo Xico Andebol",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_29",
+                  "start": 42600,
+                  "end": 42967,
+                  "subject": {
+                    "text": "CLUBE DESPORTIVO XICO ANDEBOL - CEDÊNCIA DE AUTOCARRO – RATIFICAÇÃO",
+                    "start": 42611,
+                    "end": 42678
+                  },
+                  "summary": null,
+                  "theme": "Cedência de autocarro ao Clube Desportivo Xico Andebol",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_30",
+                  "start": 42969,
+                  "end": 44567,
+                  "subject": {
+                    "text": "OS CONQUISTADORES – MOTO CLUBE DE GUIMARÃES – ALTERAÇÃO DO OBJETO DO CONTRATO PROGRAMA DE DESENVOLVIMENTO DESPORTIVO",
+                    "start": 42980,
+                    "end": 43096
+                  },
+                  "summary": null,
+                  "theme": "Alteração do objeto do Contrato Programa de desenvolvimento desportivo com Moto Clube Os Conquistadores",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_31",
+                  "start": 44569,
+                  "end": 45627,
+                  "subject": {
+                    "text": "DELEGAÇÃO DISTRITAL DE BRAGA DA ASSOCIAÇÃO PORTUGUESA DE DEFICIENTES - ATRIBUIÇÃO DE SUBSÍDIO",
+                    "start": 44580,
+                    "end": 44673
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de subsídio à APD Braga",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_32",
+                  "start": 45629,
+                  "end": 47088,
+                  "subject": {
+                    "text": "ATRIBUIÇÃO DE SUBSÍDIO À ANDDI PARA A PARTICIPAÇÃO NO 3º CAMPEONATO DA EUROPA SÍNDROME DE DOWN E NO 4º CAMPEONATO DA EUROPA DE ANDEBOL VIRTUS – REVISÃO DO CONTRATO-PROGRAMA",
+                    "start": 45640,
+                    "end": 45812
+                  },
+                  "summary": null,
+                  "theme": "Atribuição de subsídio à ANDDI Portugal",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_33",
+                  "start": 47090,
+                  "end": 47463,
+                  "subject": {
+                    "text": "BERÇO SPORT CLUBE - CEDÊNCIA DE AUTOCARRO – RATIFICAÇÃO",
+                    "start": 47101,
+                    "end": 47156
+                  },
+                  "summary": null,
+                  "theme": "Cedência de autocarro ao Berço Sport Clube",
+                  "topics": [
+                    "Traffic, Transport, and Communications",
+                    "Sports"
+                  ]
+                },
+                {
+                  "subject_id": "Guimaraes_cm_019_2021-11-18_34",
+                  "start": 47465,
+                  "end": 47536,
+                  "subject": {
+                    "text": "ATA EM MINUTA",
+                    "start": 47522,
+                    "end": 47535
+                  },
+                  "summary": null,
+                  "theme": "Aprovação da ata em minuta",
+                  "topics": [
+                    "General Administration, Finance, and Human Resources"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
