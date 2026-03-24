@@ -594,6 +594,38 @@ If you use this dataset in your research, please cite:
 }
 ```
 
+and the paper:
+
+```bibtex
+@InProceedings{citilinkminutes2026,
+author="Campos, Ricardo
+and Pacheco, Ana Filipa
+and Fernandes, Ana Lu{\'i}sa
+and Cantante, In{\^e}s
+and Rebou{\c{c}}as, Rute
+and Cunha, Lu{\'i}s Filipe
+and Isidro, Jos{\'e}
+and Evans, Jos{\'e}
+and Marques, Miguel
+and Batista, Rodrigo
+and Amorim, Evelin
+and Jorge, Al{\'i}pio
+and Guimar{\~a}es, Nuno
+and Nunes, S{\'e}rgio
+and Leal, Ant{\'o}nio
+and Silvano, Purifica{\c{c}}{\~a}o",
+title="CitiLink-Minutes: A Multilayer Annotated Dataset of Municipal Meeting Minutes",
+booktitle="Advances in Information Retrieval",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="511--527",
+abstract="City councils play a crucial role in local governance, directly influencing citizens' daily lives through decisions made during municipal meetings. These deliberations are formally documented in meeting minutes, which serve as official records of discussions, decisions, and voting outcomes. Despite their importance, municipal meeting records have received little attention in Information Retrieval (IR) and Natural Language Processing (NLP), largely due to the lack of annotated datasets, which ultimately limit the development of computational models. To address this gap, we introduce CitiLink-Minutes, a multilayer dataset of 120 European Portuguese municipal meeting minutes from six municipalities. Unlike prior annotated datasets of parliamentary or video records, CitiLink-Minutes provides multilayer annotations and structured linkage of official written minutes. The dataset contains over one million tokens, with all personal identifiers de-identified. Each minute was manually annotated by two trained annotators and curated by an experienced linguist across four complementary dimensions: (1) personal information, (2) metadata, (3) subjects of discussion, and (4) voting outcomes, totaling over 38,000 individual annotations. Released under FAIR principles and accompanied by baseline results on metadata extraction, topic classification, and vote labeling, CitiLink-Minutes demonstrates its potential for downstream NLP and IR tasks, while promoting transparent access to municipal decisions.",
+isbn="978-3-032-21321-1",
+doi = {10.1007/978-3-032-21321-1_56}
+}
+```
+
 ## Credits and Acknowledgements
 
 This dataset was developed by **[INESCTEC  (Institute for Systems and Computer Engineering, Technology and Science)](https://www.inesctec.pt)**, specifically by the **[NLP](https://nlp.inesctec.pt/)** research group, part of the **[LIAAD (Laboratory of Artificial Intelligence and Decision Support)](https://www.inesctec.pt/pt/centros/LIAAD)** center.
