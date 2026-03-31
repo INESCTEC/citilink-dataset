@@ -12,14 +12,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_1",
-                  "start": 632,
-                  "end": 941,
+                  "start": 595,
+                  "end": 904,
                   "subject": {
                     "text": "pedido de marcação de reunião extraordinária da Assembleia Municipal",
-                    "start": 872,
-                    "end": 940
+                    "start": 835,
+                    "end": 903
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o pedido de marcação de reunião extraordinária da Assembleia Municipal.",
                   "theme": "Pedido de marcação de reunião extraordinária da Assembleia Municipal",
                   "topics": [
                     "Other"
@@ -33,14 +33,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_2",
-                  "start": 963,
-                  "end": 1339,
+                  "start": 926,
+                  "end": 1302,
                   "subject": {
                     "text": "ata n.º 21, de 22.09.2021",
-                    "start": 1313,
-                    "end": 1338
+                    "start": 1276,
+                    "end": 1301
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por maioria, com duas abstenções, a ata n.º 21, de 2021-09-22.",
                   "theme": "Aprovação da ata n.º 21, de 22.09.2021",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -54,14 +54,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_3",
-                  "start": 1379,
-                  "end": 2172,
+                  "start": 1342,
+                  "end": 2135,
                   "subject": {
                     "text": "pedido de transporte do Agrupamento de Escolas de Vila Viçosa",
-                    "start": 2110,
-                    "end": 2171
+                    "start": 2073,
+                    "end": 2134
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o pedido de transporte do Agrupamento de Escolas de Vila Viçosa para uma viagem ERASMUS. O Sr. Vereador José Andrezo questionou sobre se houve também pedido de transporte para a viagem à Câmara de Vila Viçosa. O Sr. Presidente da Câmara confirmou esse pedido e informou que já articulou com o Presidente daquele município a possibilidade de transportes alternados futuramente.",
                   "theme": "Pedido de transporte do Agrupamento de Escolas de Vila Viçosa",
                   "topics": [
                     "Traffic, Transport, and Communications",
@@ -70,14 +70,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_4",
-                  "start": 2174,
-                  "end": 2600,
+                  "start": 2137,
+                  "end": 2563,
                   "subject": {
                     "text": "utilização do Fórum Cultural por parte da Igreja Evangélica, Assembleia de Deus",
-                    "start": 2520,
-                    "end": 2599
+                    "start": 2483,
+                    "end": 2562
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a utilização do Fórum Cultural pela Igreja Evangélica Assembleia de Deus. O Sr. Presidente da Câmara informou que é prática ceder espaços municipais às instituições da Igreja.",
                   "theme": "Utilização do Fórum Cultural pela Igreja Evangélica Assembleia de Deus",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -85,14 +85,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_5",
-                  "start": 2602,
-                  "end": 3059,
+                  "start": 2565,
+                  "end": 3022,
                   "subject": {
                     "text": "pedido de apoio da Santa Casa da Misericórdia de cedência de casa de madeira e três latas de tinta branca",
-                    "start": 2953,
-                    "end": 3058
+                    "start": 2916,
+                    "end": 3021
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o pedido de apoio da Santa Casa da Misericórdia de cedência de casa de madeira e três latas de tinta branca para pintura de muro.",
                   "theme": "Pedido de apoio da Santa Casa da Misericórdia de cedência de materiais",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -101,14 +101,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_6",
-                  "start": 3061,
-                  "end": 3970,
+                  "start": 3024,
+                  "end": 3933,
                   "subject": {
                     "text": "pedido de apoio da Delegação da Cruz Vermelha de Santiago Maior para o funcionamento da Creche de Santiago Maior",
-                    "start": 3857,
-                    "end": 3969
+                    "start": 3820,
+                    "end": 3932
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o pedido de apoio da Delegação da Cruz Vermelha de Santiago Maior para funcionamento da Creche de Santiago Maior. O Sr. Presidente da Câmara informou que, enquanto a candidatura PROCOOP não é aprovada, a Câmara apoiará as creches de Santiago Maior e do Alandroal, propondo um apoio inicial de 7341,50€, equivalente ao valor esperado da Segurança Social.",
                   "theme": "Pedido de apoio da Delegação da Cruz Vermelha de Santiago Maior para funcionamento da Creche",
                   "topics": [
                     "Education and Vocational Training",
@@ -117,14 +117,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_7",
-                  "start": 3972,
-                  "end": 4281,
+                  "start": 3935,
+                  "end": 4244,
                   "subject": {
                     "text": "criação de lugares de estacionamento da Rua Monte dos Moreiras, na Aldeia da Venda",
-                    "start": 4198,
-                    "end": 4280
+                    "start": 4161,
+                    "end": 4243
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a criação de lugares de estacionamento na Rua Monte dos Moreiras, na Aldeia da Venda.",
                   "theme": "Criação de lugares de estacionamento da Rua Monte dos Moreiras",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -132,14 +132,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_8",
-                  "start": 4283,
-                  "end": 4642,
+                  "start": 4246,
+                  "end": 4605,
                   "subject": {
                     "text": "colocação de bandas redutoras de velocidade, estacionamento proibido e fim de estacionamento no Bairro Inácio Melrinho",
-                    "start": 4509,
-                    "end": 4627
+                    "start": 4472,
+                    "end": 4590
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a colocação de bandas redutoras de velocidade, estacionamento proibido e fim de estacionamento no Bairro Inácio Melrinho.",
                   "theme": "Colocação de bandas redutoras de velocidade, estacionamento proibido e fim de estacionamento no Bairro Inácio Melrinho",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -147,14 +147,14 @@
                 },
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_9",
-                  "start": 4644,
-                  "end": 4919,
+                  "start": 4607,
+                  "end": 4873,
                   "subject": {
-                    "text": "pagamento de água em quatro prestações mensais a **********************",
-                    "start": 4847,
-                    "end": 4918
+                    "text": "pagamento de água em quatro prestações mensais a Diego Fonseca",
+                    "start": 4810,
+                    "end": 4872
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o pagamento da água em quatro prestações mensais a um cidadão.",
                   "theme": "Pagamento de água em quatro prestações mensais por um cidadão",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -168,14 +168,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_10",
-                  "start": 5078,
-                  "end": 5982,
+                  "start": 5032,
+                  "end": 5936,
                   "subject": {
                     "text": "celebração de Protocolo entre a Câmara Municipal de Alandroal e a MeteoAlentejo, Associação de Meteorologia para a instalação de uma Estação Meteorológica em Alandroal",
-                    "start": 5814,
-                    "end": 5981
+                    "start": 5768,
+                    "end": 5935
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a celebração de um Protocolo entre a Câmara e a MeteoAlentejo para instalação de uma Estação Meteorológica no concelho. O Sr. Presidente da Câmara explicou que é um projeto de comunicação que quer criar uma rede de estações meteorológicas em todo o Alentejo. A Câmara suportará 200,00€ para o equipamento, além de disponibilizar espaço e apoio técnico.",
                   "theme": "Celebração de Protocolo entre a Câmara e a MeteoAlentejo",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -191,14 +191,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_11",
-                  "start": 6034,
-                  "end": 6733,
+                  "start": 5988,
+                  "end": 6709,
                   "subject": {
                     "text": "atribuição de treze subsídios de Ação Social Escolar",
-                    "start": 6680,
-                    "end": 6732
+                    "start": 6656,
+                    "end": 6708
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou por unanimidade a atribuição de treze subsídios de Ação Social Escolar. O Sr. Vice-Presidente da Câmara explicou que se trata dos pedidos que foram chegando à Ação Social, que cumprem o Regulamento e que são analisados e validados pelos serviços.",
                   "theme": "Atribuição de treze subsídios de Ação Social Escolar",
                   "topics": [
                     "Education and Vocational Training",
@@ -213,14 +213,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_12",
-                  "start": 6781,
-                  "end": 7214,
+                  "start": 6757,
+                  "end": 7195,
                   "subject": {
                     "text": "atribuição de vales de compras alimentares",
-                    "start": 7171,
-                    "end": 7213
+                    "start": 7152,
+                    "end": 7194
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a atribuição de vales de compras alimentares a dois cidadãos. O Sr. Presidente da Câmara explicou que correspondem aos valores mensais de 25,00€ e 50,00€.",
                   "theme": "Atribuição de vales de compras alimentares a dois cidadãos",
                   "topics": [
                     "Social Action"
@@ -234,14 +234,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_13",
-                  "start": 7287,
-                  "end": 8118,
+                  "start": 7268,
+                  "end": 8099,
                   "subject": {
                     "text": "autorização genérica de assunção prévia de compromissos plurianuais",
-                    "start": 8050,
-                    "end": 8117
+                    "start": 8031,
+                    "end": 8098
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a autorização genérica de assunção prévia de compromissos plurianuais. O Sr. Presidente da Câmara justificou a submissão deste ponto à Assembleia Municipal com o previsto na Lei, que impõe que os compromissos com um valor até 99759,58€ possam ser aprovados previamente pela Assembleia Municipal. Explicou também que este procedimento é muito vantajoso ao funcionamento diário do município.",
                   "theme": "Autorização genérica de assunção prévia de compromissos plurianuais",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -255,14 +255,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_14",
-                  "start": 8167,
-                  "end": 9557,
+                  "start": 8148,
+                  "end": 9538,
                   "subject": {
                     "text": "assunção prévia de compromissos plurianuais",
-                    "start": 9513,
-                    "end": 9556
+                    "start": 9494,
+                    "end": 9537
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a assunção prévia de compromissos plurianuais. As despesas que se estendem por mais de um ano financeiro dizem respeito às seguintes empreitadas: arranjos do Centro Histórico e Interpretativo do Castelo de Alandroal (544571,94€), reparação de vias e arruamentos nas Hortinhas (86820,00€), saneamento de Casas Novas de Mares (150159,60€), fornecimento de gasóleo rodoviário e contratação de seguros (145618,66€).",
                   "theme": "Assunção prévia de compromissos plurianuais",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -276,14 +276,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_15",
-                  "start": 9580,
-                  "end": 10048,
+                  "start": 9561,
+                  "end": 10029,
                   "subject": {
                     "text": "abate de veículos",
-                    "start": 10030,
-                    "end": 10047
+                    "start": 10011,
+                    "end": 10028
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o abate de veículos. O Sr. Presidente da Câmara explicou que a proposta dos serviços de Património prevê o abate de dois veículos Mercedes de 19 lugares, entregues como retoma na aquisição de novas viaturas para transporte escolar.",
                   "theme": "Abate de veículos",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -299,14 +299,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_16",
-                  "start": 10129,
-                  "end": 10846,
+                  "start": 10110,
+                  "end": 10827,
                   "subject": {
                     "text": "alienação dos lotes 1 e 2 do Loteamento da Zona Oficinal de Santiago Maior",
-                    "start": 10771,
-                    "end": 10845
+                    "start": 10752,
+                    "end": 10826
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a alienação dos lotes 1 e 2 do Loteamento da Zona Oficinal de Santiago Maior, cuja aquisição será feita pela Lactifreire, Indústria de Lacticínios, Unipessoal, Lda. pelo valor de 8130,00€.",
                   "theme": "Alienação dos lotes 1 e 2 do Loteamento da Zona Oficinal de Santiago Maior",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -321,14 +321,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_17",
-                  "start": 10957,
-                  "end": 12655,
+                  "start": 10938,
+                  "end": 12636,
                   "subject": {
                     "text": "proposta de correção material ao Regulamento do Plano de Salvaguarda e Reabilitação da Vila de Juromenha",
-                    "start": 12550,
-                    "end": 12654
+                    "start": 12531,
+                    "end": 12635
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por maioria, com uma abstenção, a correção material do Regulamento do Plano de Salvaguarda e Reabilitação da Vila de Juromenha, para ocupação do interior da Fortaleza de Juromenha. A correção permitirá especificar o concurso a abrir para a instalação de uma unidade hoteleira no interior da Fortaleza, possibilitando o alojamento local na modalidade de estabelecimento de hospedagem ou de outros projetos turísticos.",
                   "theme": "Correção material do Regulamento do Plano de Salvaguarda e Reabilitação da Vila de Juromenha",
                   "topics": [
                     "Heritage",
@@ -344,14 +344,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_18",
-                  "start": 12790,
-                  "end": 13441,
+                  "start": 12771,
+                  "end": 13422,
                   "subject": {
                     "text": "prorrogação do prazo da empreitada \"Capela da Boa Nova em Terena -- Obras de conservação\"",
-                    "start": 13351,
-                    "end": 13440
+                    "start": 13332,
+                    "end": 13421
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a prorrogação do prazo da empreitada de conservação da Capela da Boa Nova, em Terena. O Sr. Presidente da Câmara informou que, devido a imprevistos, a empresa pediu uma prorrogação de 45 dias além do prazo contratual de 180 dias para concluir a obra.",
                   "theme": "Prorrogação do prazo da empreitana de conservação da Capela da Boa Nova em Terena",
                   "topics": [
                     "Heritage",
@@ -366,14 +366,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_19",
-                  "start": 13604,
-                  "end": 14436,
+                  "start": 13585,
+                  "end": 14417,
                   "subject": {
                     "text": "trabalhos complementares / minuta do 2.º adicional ao contrato da empreitada \"Área Recreativa das Azenhas D'El Rei -- Praia Fluvial\"",
-                    "start": 14303,
-                    "end": 14435
+                    "start": 14284,
+                    "end": 14416
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por maioria, com dois votos contra, ratificar os trabalhos complementares da empreitada na Praia Fluvial de Azenhas D'El Rei.  O Sr. Presidente da Câmara informou que, no contrato adicional da obra, é necessária a correção de 3570,60€ para incluir todos os trabalhos complementares.",
                   "theme": "Ratificação dos trabalhos complementares da empreitada na Praia Fluvial de Azenhas D'El Rei",
                   "topics": [
                     "Public Works"
@@ -387,14 +387,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_20",
-                  "start": 14659,
-                  "end": 15251,
+                  "start": 14640,
+                  "end": 15232,
                   "subject": {
                     "text": "Plano de Segurança e Saúde da empreitada \"Fortaleza de Juromenha -- Consolidação e restauro dos paramentos do perímetro abaluartado exterior e cerca islâmica e medieval interior\"",
-                    "start": 15072,
-                    "end": 15250
+                    "start": 15053,
+                    "end": 15231
                   },
-                  "summary": null,
+                  "summary": "Municipal aprovou, por unanimidade, a ratificação do Plano de Segurança e Saúde da empreitada na Fortaleza de Juromenha. O Sr. Presidente da Câmara esclareceu que se trata apenas da aceitação do plano apresentado pela empresa.",
                   "theme": "Ratificação do Plano de Segurança e Saúde da empreitada na Fortaleza de Juromenha",
                   "topics": [
                     "Heritage",
@@ -409,14 +409,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_21",
-                  "start": 15755,
-                  "end": 17160,
+                  "start": 15736,
+                  "end": 17141,
                   "subject": {
                     "text": "revisão do projeto de arquitetura da Casa do Castelo no Alandroal; a revisão/elaboração dos projetos de Especialidade da Obra de Remodelação e ampliação do Edifício da Casa do Castelo, incluindo os Arranjos Exteriores e Projeto de execução (Paisagismo) para a obra de arranjos exteriores (Jardim) envolvente à Casa do Castelo existente no Interior do Castelo de Alandroal, bem como para o Olival de acesso restrito numa área total de intervenção de, aproximadamente, 2.500 m²",
-                    "start": 16683,
-                    "end": 17158
+                    "start": 16664,
+                    "end": 17139
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por maioria, com uma abstenção, a revisão/elaboração de projetos da obra de remodelação e ampliação da Casa do Castelo, com um investimento previsto de 513747,11€. O Sr. Vereador José Andrezo alegou falta de tempo para analisar os documentos, tendo o Sr. Presidente da Câmara esclarecido que os mesmos são enviados simultaneamente ao executivo e analisados previamente pelos serviços",
                   "theme": "Revisão/elaboração de projetos da obra de remodelação e ampliação da Casa do Castelo",
                   "topics": [
                     "Heritage",
@@ -431,14 +431,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_22",
-                  "start": 17320,
-                  "end": 18077,
+                  "start": 17301,
+                  "end": 18058,
                   "subject": {
                     "text": "projeto de execução da rede de drenagem de águas residuais urbanas e rede de abastecimento de água - Ramal de Montoito - Casas Novas de Mares",
-                    "start": 17935,
-                    "end": 18076
+                    "start": 17916,
+                    "end": 18057
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o projeto de execução da rede de drenagem de águas residuais urbanas e rede de abastecimento de água, em  Ramal de Montoito, Casas Novas de Mares.  O Sr. Presidente da Câmara esclareceu que se aprovam os projetos finais dos serviços municipais, no valor de 141660,00€ + IVA.",
                   "theme": "Execução da rede de drenagem de águas residuais urbanas e rede de abastecimento de água",
                   "topics": [
                     "Environment",
@@ -449,18 +449,18 @@
             },
             {
               "item_id": 17,
-              "item_title": "17. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "item_title": "17. PROCESSO DE OBRAS N.º 31/20 -- EDIFIC",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_23",
-                  "start": 18121,
-                  "end": 18454,
+                  "start": 18111,
+                  "end": 18447,
                   "subject": {
-                    "text": "especialidades relativas ao processo de obras n.º ***** -- EDIFIC",
-                    "start": 18388,
-                    "end": 18453
+                    "text": "especialidades relativas ao processo de obras n.º 4844 -- EDIFIC",
+                    "start": 18382,
+                    "end": 18446
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, as especialidades relativas a um processo de obras particulares.",
                   "theme": "Aprovação das especialidades relativas a processo de obras",
                   "topics": [
                     "Private Works"
@@ -470,18 +470,18 @@
             },
             {
               "item_id": 18,
-              "item_title": "18. PROCESSO DE OBRAS N.º **** -- LEGALIZAÇÃO",
+              "item_title": "18. PROCESSO DE OBRAS N.º 8/21 -- LEGALIZAÇÃO",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_24",
-                  "start": 18502,
-                  "end": 18845,
+                  "start": 18501,
+                  "end": 18852,
                   "subject": {
-                    "text": "projeto de arquitetura relativo ao processo de obras n.º **** -- LEGALIZAÇÃO",
-                    "start": 18768,
-                    "end": 18844
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º 64009/2023 -- LEGALIZAÇÃO",
+                    "start": 18769,
+                    "end": 18851
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a legalização de projeto de arquitetura relativo a um processo de obras particulares.",
                   "theme": "Legalização de projeto de arquitetura",
                   "topics": [
                     "Private Works"
@@ -491,18 +491,18 @@
             },
             {
               "item_id": 19,
-              "item_title": "19. PROCESSO DE OBRAS N.º **** -- LICCOMB",
+              "item_title": "19. PROCESSO DE OBRAS N.º 1/19 -- LICCOMB",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_25",
-                  "start": 18889,
-                  "end": 19241,
+                  "start": 18900,
+                  "end": 19258,
                   "subject": {
-                    "text": "instalação de posto de combustível referente ao processo de obras n.º **** -- LICCOMB",
-                    "start": 19155,
-                    "end": 19240
+                    "text": "instalação de posto de combustível referente ao processo de obras n.º 99719-DN -- LICCOMB",
+                    "start": 19168,
+                    "end": 19257
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, a instalação de posto de combustível referente a um processo de obras particulares.",
                   "theme": "Instalação de posto de combustível",
                   "topics": [
                     "Private Works"
@@ -512,18 +512,18 @@
             },
             {
               "item_id": 20,
-              "item_title": "20. Processo de obras n.º ***** -- EDIFIC",
+              "item_title": "20. Processo de obras n.º 20/21 -- EDIFIC",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_26",
-                  "start": 19285,
-                  "end": 19624,
+                  "start": 19301,
+                  "end": 19651,
                   "subject": {
-                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
-                    "start": 19551,
-                    "end": 19623
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º ZFQQ/2017/4115 -- EDIFIC",
+                    "start": 19569,
+                    "end": 19650
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, um projeto de arquitetura relativo a um processo de obras particulares.",
                   "theme": "Aprovação de projeto de arquitetura",
                   "topics": [
                     "Private Works"
@@ -533,18 +533,18 @@
             },
             {
               "item_id": 21,
-              "item_title": "21. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "item_title": "21. PROCESSO DE OBRAS N.º 22/21 -- EDIFIC",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_27",
-                  "start": 19668,
-                  "end": 20025,
+                  "start": 19704,
+                  "end": 20058,
                   "subject": {
-                    "text": "projeto de arquitetura e especialidades relativas ao processo de obras n.º ***** -- EDIFIC",
-                    "start": 19934,
-                    "end": 20024
+                    "text": "projeto de arquitetura e especialidades relativas ao processo de obras n.º 0646 -- EDIFIC",
+                    "start": 19968,
+                    "end": 20057
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, o projeto de arquitetura e especialidades relativas a um processo de obras particulares.",
                   "theme": "Aprovação de projeto de arquitetura e especialidades",
                   "topics": [
                     "Private Works"
@@ -554,18 +554,18 @@
             },
             {
               "item_id": 22,
-              "item_title": "22. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "item_title": "22. PROCESSO DE OBRAS N.º 16/21 -- EDIFIC",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_28",
-                  "start": 20069,
-                  "end": 20408,
+                  "start": 20106,
+                  "end": 20457,
                   "subject": {
-                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
-                    "start": 20335,
-                    "end": 20407
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º EVLK/2015/7172 -- EDIFIC",
+                    "start": 20375,
+                    "end": 20456
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, um projeto de arquitetura relativo a processo de obras particulares.",
                   "theme": "Aprovação de projeto de arquitetura",
                   "topics": [
                     "Private Works"
@@ -575,18 +575,18 @@
             },
             {
               "item_id": 23,
-              "item_title": "23. PROCESSO DE OBRAS N.º ***** -- EDIFIC",
+              "item_title": "23. PROCESSO DE OBRAS N.º 25/21 -- EDIFIC",
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_29",
-                  "start": 20452,
-                  "end": 20791,
+                  "start": 20500,
+                  "end": 20844,
                   "subject": {
-                    "text": "projeto de arquitetura relativo ao processo de obras n.º ***** -- EDIFIC",
-                    "start": 20718,
-                    "end": 20790
+                    "text": "projeto de arquitetura relativo ao processo de obras n.º 52134/2016 -- EDIFIC",
+                    "start": 20766,
+                    "end": 20843
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal aprovou, por unanimidade, um projeto de arquitetura relativo a processo de obras particulares.",
                   "theme": "Aprovação de projeto de arquitetura",
                   "topics": [
                     "Private Works"
@@ -600,14 +600,14 @@
               "subjects": [
                 {
                   "subject_id": "Alandroal_cm_002_2021-10-22_30",
-                  "start": 20822,
-                  "end": 21136,
+                  "start": 20875,
+                  "end": 21189,
                   "subject": {
                     "text": "alterações orçamentais",
-                    "start": 21113,
-                    "end": 21135
+                    "start": 21166,
+                    "end": 21188
                   },
-                  "summary": null,
+                  "summary": "O Executivo Municipal ratificou, por maioria, com uma abstenção, as alterações orçamentais.",
                   "theme": "Alterações orçamentais",
                   "topics": [
                     "General Administration, Finance, and Human Resources"

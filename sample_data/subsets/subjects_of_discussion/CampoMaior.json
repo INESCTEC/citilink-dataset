@@ -12,14 +12,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_1",
-                  "start": 1103,
-                  "end": 1305,
+                  "start": 1057,
+                  "end": 1259,
                   "subject": {
                     "text": "Operações Orçamentais respeitante ao dia doze de novembro do ano dois mil e vinte e um",
-                    "start": 1116,
-                    "end": 1202
+                    "start": 1070,
+                    "end": 1156
                   },
-                  "summary": null,
+                  "summary": "Foram apresentadas as operações orçamentais respeitantes a 2021-11-12, no valor de 576455,30€.",
                   "theme": "Operações orçamentais respeitantes a 12.11.2021",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -33,14 +33,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_2",
-                  "start": 1314,
-                  "end": 3291,
+                  "start": 1268,
+                  "end": 3142,
                   "subject": {
                     "text": "REGIME DE PROPRIEDADE HORIZONTAL",
-                    "start": 3258,
-                    "end": 3290
+                    "start": 3109,
+                    "end": 3141
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, a reunião dos requisitos legais para instituição do regime de propriedade horizontal num prédio.",
                   "theme": "Reunião dos requisitos legais para instituição do regime de propriedade horizontal em prédio",
                   "topics": [
                     "Private Works"
@@ -54,14 +54,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_3",
-                  "start": 3303,
-                  "end": 5197,
+                  "start": 3154,
+                  "end": 5016,
                   "subject": {
-                    "text": "PEDIDO DE CERTIDÃO DE ISENÇÃO DE LICENÇA DE\nHABITABILIDADE DA FRAÇÃO * PARA O PRÉDIO URBANO",
-                    "start": 3304,
-                    "end": 3395
+                    "text": "PEDIDO DE CERTIDÃO DE ISENÇÃO DE LICENÇA DE\nHABITABILIDADE DA FRAÇÃO 29/3370-P PARA O PRÉDIO URBANO",
+                    "start": 3155,
+                    "end": 3254
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, autorizar a emissão da certidão de isenção de licença de habitabilidade para um prédio urbano, com validade de um ano.",
                   "theme": "Emissão de certidão de isenção de licença de habitabilidade para prédio urbano",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -76,14 +76,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_4",
-                  "start": 5214,
-                  "end": 6965,
+                  "start": 5033,
+                  "end": 6784,
                   "subject": {
                     "text": "REVISÃO DE PREÇOS DEFINITIVA, DA EMPREITADA DE REQUALIFICAÇÃO DA FORTIFICAÇÃO ABALUARTADA DE CAMPO MAIOR",
-                    "start": 5228,
-                    "end": 5332
+                    "start": 5047,
+                    "end": 5151
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, aprovar a revisão de preços definitiva da empreitada de requalificação da Fortificação Abaluartada de Campo Maior, no valor de 111448,74€ + IVA. O valor a pagar ao empreiteiro corresponde à diferença entre a revisão definitiva e a provisória, no valor de 13095,46€, com os descontos referentes ao reforço da caução e ao imposto de selo.",
                   "theme": "Revisão de preços definitiva da empreitada de requalificação da Fortificação Abaluartada de Campo Maior",
                   "topics": [
                     "Heritage",
@@ -92,14 +92,14 @@
                 },
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_5",
-                  "start": 6966,
-                  "end": 8750,
+                  "start": 6785,
+                  "end": 8569,
                   "subject": {
                     "text": "REVISÃO DE PREÇOS DEFINITIVA, DA EMPREITADA DE CRIAÇÃO DO CENTRO INTERPRETATIVO E ACOLHIMENTO DE VISITANTES DA FORTIFICAÇÃO ABALUARTADA DE CAMPO MAIOR",
-                    "start": 6980,
-                    "end": 7130
+                    "start": 6799,
+                    "end": 6949
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, aprovar a revisão de preços definitiva da empreitada de criação do Centro Interpretativo e Acolhimento da Fortificação Abaluartada, no valor de 10171,35€. O valor a pagar ao empreiteiro corresponde à diferença entre a revisão definitiva e a provisória, no valor de 1337,12€, com os descontos referentes ao reforço da caução e ao imposto de selo.",
                   "theme": "Revisão de preços da empreitada de criação do Centro Interpretativo e Acolhimento da Fortificação Abaluartada",
                   "topics": [
                     "Culture",
@@ -108,14 +108,14 @@
                 },
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_6",
-                  "start": 8751,
-                  "end": 12193,
+                  "start": 8570,
+                  "end": 12012,
                   "subject": {
                     "text": "PRORROGAÇÃO POR MAIS CENTO E VINTE DIAS DE CALENDÁRIO, TERMINANDO EM 19 DE MARÇO DE 2022, A TÍTULO GRACIOSO E SEM DIREITO A REVISÃO DE PREÇOS A EMPREITADA DE CRIAÇÃO DO CENTRO DE INTELIGÊNCIA COMPETITIVA",
-                    "start": 11715,
-                    "end": 11918
+                    "start": 11534,
+                    "end": 11737
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, autorizar a prorrogação do prazo da empreitada do Centro de Inteligência Competitiva por mais 120 dias. O novo prazo é 2022-03-19 e não tem direito a revisão de preços, tendo sido faturado até à presente data o valor de 280930,61€. As razões que levaram ao atraso da empreitada disseram respeito a constrangimentos relacionados com os projetos de Instalações Elétricas, ITED e AVAC, com o mapa de vãos exteriores e com a produção e entrega de materiais de construção.",
                   "theme": "Prorrogação do prazo da empreitada do CIC",
                   "topics": [
                     "Science",
@@ -131,14 +131,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_7",
-                  "start": 12216,
-                  "end": 15111,
+                  "start": 12035,
+                  "end": 14872,
                   "subject": {
                     "text": "PRORROGAÇÃO DO PROGRAMA OMDLD DE 2019 PELO PERÍODO DE 12 MESES, COM EFEITOS A PARTIR DE 01 DE NOVEMBRO A DIVERSOS DESEMPREGADOS",
-                    "start": 14622,
-                    "end": 14749
+                    "start": 14383,
+                    "end": 14510
                   },
-                  "summary": null,
+                  "summary": "A Câmara ratificou, por unanimidade, o despacho do Sr. Presidente da Câmara relativo à prorrogação do Programa de Ocupação Municipal de Desempregados de Longa Duração de 2019 por 12 meses a três cidadãos. O Sr. Vereador Paul Ivo reiterou o ponto referido pelo Sr. Presidente da Câmara que diz respeito ao interesse público que as atividades deste programa têm para o Município. O Sr. Presidente da Câmara referiu que o programa é destinado a cidadãos sem habilitações literárias para concorrerem a concursos ou que não tenham qualquer rendimento.",
                   "theme": "Prorrogação do programa OMDLD de 2019 por 12 meses a três cidadãos",
                   "topics": [
                     "Social Action",
@@ -147,14 +147,14 @@
                 },
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_8",
-                  "start": 15112,
-                  "end": 16715,
+                  "start": 14873,
+                  "end": 16476,
                   "subject": {
                     "text": "ESCALA DE TURNOS DE SERVIÇOS DAS FARMÁCIAS PARA O ANO DOIS MIL E VINTE E DOIS",
-                    "start": 16637,
-                    "end": 16714
+                    "start": 16398,
+                    "end": 16475
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por maioria, com duas abstenções, dar parecer favorável à retificação da escala de turnos de serviços das farmácias para 2022, proposta pela Administração Regional de Saúde do Alentejo. O parecer tem de ser emitido até 2021-10-30.",
                   "theme": "Retificação da escala de turnos de serviços das farmácias para 2022",
                   "topics": [
                     "Health"
@@ -162,14 +162,14 @@
                 },
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_9",
-                  "start": 16716,
-                  "end": 16990,
+                  "start": 16477,
+                  "end": 16755,
                   "subject": {
                     "text": "DOAÇÃO DA BROCHURA “À MESA COM POESIA” DOADO À BIBLIOTECA JOÃO DUBRAZ",
-                    "start": 16920,
-                    "end": 16989
+                    "start": 16685,
+                    "end": 16754
                   },
-                  "summary": null,
+                  "summary": "A Câmara deliberou, por unanimidade, aceitar e agradecer a doação da brochura \"À Mesa com Poesia\" à Biblioteca João Dubraz por um cidadão.",
                   "theme": "Doação da brochura \"À Mesa com Poesia\" à Biblioteca João Dubraz por um cidadão",
                   "topics": [
                     "Culture"
@@ -183,14 +183,14 @@
               "subjects": [
                 {
                   "subject_id": "Campomaior_cm_023_2021-11-17_10",
-                  "start": 17013,
-                  "end": 17246,
+                  "start": 16778,
+                  "end": 17011,
                   "subject": {
                     "text": "PRESENTE ATA EM MINUTA",
-                    "start": 17149,
-                    "end": 17171
+                    "start": 16914,
+                    "end": 16936
                   },
-                  "summary": null,
+                  "summary": "Foi deliberado, por unanimidade, a aprovação da presente ata em minuta.",
                   "theme": "Aprovação da presente ata em minuta",
                   "topics": [
                     "General Administration, Finance, and Human Resources"

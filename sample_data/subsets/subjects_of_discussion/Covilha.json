@@ -12,14 +12,14 @@
               "subjects": [
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_1",
-                  "start": 1714,
-                  "end": 2058,
+                  "start": 1653,
+                  "end": 1997,
                   "subject": {
                     "text": "alínea a) do 5.2. – DFMA",
-                    "start": 1822,
-                    "end": 1846
+                    "start": 1761,
+                    "end": 1785
                   },
-                  "summary": null,
+                  "summary": "Foi proposta e aprovada a correção do título de uma alínea do ponto 5.2. DFMA – Departamento de Finanças e Modernização Administrativa.",
                   "theme": "Correção do título de uma alínea do ponto 5.2. DFMA",
                   "topics": [
                     "Other"
@@ -33,14 +33,14 @@
               "subjects": [
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_2",
-                  "start": 2079,
-                  "end": 2418,
+                  "start": 2018,
+                  "end": 2357,
                   "subject": {
                     "text": "ata n.º 2-A/2021 – Reunião Ordinária Privada - 05.novembro.2021",
-                    "start": 2173,
-                    "end": 2236
+                    "start": 2112,
+                    "end": 2175
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal deliberou, por unanimidade, a aprovação da ata n.º 2-A/2021.",
                   "theme": "Aprovação da ata n.º 2-A/2021",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -48,14 +48,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_3",
-                  "start": 2420,
-                  "end": 2762,
+                  "start": 2359,
+                  "end": 2701,
                   "subject": {
                     "text": "ata n.º 3-A/2021 da Reunião Ordinária Pública de 19.novembro.2021",
-                    "start": 2515,
-                    "end": 2580
+                    "start": 2454,
+                    "end": 2519
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal deliberou, por unanimidade, a aprovação da ata n.º 3-A/202.",
                   "theme": "Aprovação da ata n.º 3-A/2021",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -69,14 +69,14 @@
               "subjects": [
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_4",
-                  "start": 2778,
-                  "end": 3303,
+                  "start": 2717,
+                  "end": 3242,
                   "subject": {
                     "text": "balancete",
-                    "start": 2789,
-                    "end": 2798
+                    "start": 2728,
+                    "end": 2737
                   },
-                  "summary": null,
+                  "summary": "Foi apresentado o balancete de 2021-12-02, com os seguintes valores: Total de Disponibilidades: 8027177,02€; Dotações Orçamentais: 6535909,81€; Dotações não Orçamentais: 1491267,21€.",
                   "theme": "Apresentação do balancete",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -90,14 +90,14 @@
               "subjects": [
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_5",
-                  "start": 3319,
-                  "end": 3360,
+                  "start": 3258,
+                  "end": 3299,
                   "subject": {
                     "text": "assuntos neste ponto",
-                    "start": 3339,
-                    "end": 3359
+                    "start": 3278,
+                    "end": 3298
                   },
-                  "summary": null,
+                  "summary": "Não houve assuntos agendados no ponto 4. Despachos.",
                   "theme": "Ausência de assuntos agendados no ponto 4. Despachos",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -111,14 +111,14 @@
               "subjects": [
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_6",
-                  "start": 3445,
-                  "end": 4939,
+                  "start": 3384,
+                  "end": 4878,
                   "subject": {
                     "text": "indicação do Município de Manteigas como Beneficiário no protocolo de colaboração técnica e financeira com o Fundo Ambiental e o Instituto da Conservação da Natureza e das Florestas, I.P.",
-                    "start": 4716,
-                    "end": 4903
+                    "start": 4655,
+                    "end": 4842
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a indicação do Município de Manteigas como beneficiário em protocolo de colaboração com o Instituto da Conservação da Natureza e das Florestas (ICNF). O Protocolo de Colaboração Técnica e Financeira visa apoiar a implementação do modelo de cogestão do Parque Natural da Serra da Estrela. Envolve os municípios de Celorico da Beira, Covilhã, Gouveia, Guarda, Manteigas e Seia, com duração de 36 meses e financiamento de 100000,00€.",
                   "theme": "Indicação do Município de Manteigas como beneficiário em protocolo de colaboração com o ICNF",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -128,14 +128,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_7",
-                  "start": 4941,
-                  "end": 6659,
+                  "start": 4880,
+                  "end": 6598,
                   "subject": {
                     "text": "celebração do Protocolo entre o Município da Covilhã e a Junta Regional da Guarda do Corpo Nacional de Escutas",
-                    "start": 5841,
-                    "end": 5951
+                    "start": 5780,
+                    "end": 5890
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a celebração de Protocolo entre o Município e a Junta Regional da Guarda do Corpo Nacional de Escutas (CNE). O acordo regula a cedência da Escola do 1.º Ciclo do Casal da Serra, no Tortosendo, para o desenvolvimento de atividades de interesse público no âmbito do plano do CNE. O Protocolo tem duração de cinco anos, renovável por iguais períodos, salvo denúncia por qualquer das partes com três meses de antecedência.",
                   "theme": "Celebração de Protocolo entre o Município e a Junta Regional da Guarda do CNE",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -143,14 +143,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_8",
-                  "start": 6661,
-                  "end": 8020,
+                  "start": 6600,
+                  "end": 7959,
                   "subject": {
                     "text": "celebração do Protocolo de Colaboração entre o Município da Covilhã e a SOGILUB – Sociedade de Gestão Integrada de Óleos Lubrificantes Usados, Lda.",
-                    "start": 7670,
-                    "end": 7817
+                    "start": 7609,
+                    "end": 7756
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, a celebração do Protocolo de Colaboração entre o Município e a SOGILUB – Sociedade de Gestão Integrada de Óleos Lubrificantes Usados. O protocolo prevê a colocação de reservatórios para recolha de óleos usados, garantindo a sua gestão ambientalmente adequada no concelho.",
                   "theme": "Celebração do Protocolo de Colaboração entre o Município e a SOGILUB",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -159,14 +159,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_9",
-                  "start": 8022,
-                  "end": 9488,
+                  "start": 7961,
+                  "end": 9427,
                   "subject": {
                     "text": "aprovação da Minuta do Protocolo de Apoio e Cooperação Institucional entre o Município da Covilhã e o CHUCB - Centro Hospitalar Universitário da Cova da Beira",
-                    "start": 8305,
-                    "end": 8463
+                    "start": 8244,
+                    "end": 8402
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, a celebração do Protocolo de Apoio e Cooperação entre o Município e o CHUCB – Centro Hospitalar Universitário da Cova da Beira. O acordo prevê apoio técnico e operativo para trabalhos de manutenção na sinalização de trânsito e estacionamento do Hospital da Covilhã, com custo estimado de 5748,50€+IVA. Foi, ainda, deliberado encarregar os serviços municipais de realizar os procedimentos de contratação pública.",
                   "theme": "Celebração do Protocolo de Apoio e Cooperação entre o Município e o CHUCB",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -175,14 +175,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_10",
-                  "start": 9490,
-                  "end": 10493,
+                  "start": 9429,
+                  "end": 10432,
                   "subject": {
                     "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e a União de Freguesas de Teixoso e Sarzedo",
-                    "start": 10145,
-                    "end": 10250
+                    "start": 10084,
+                    "end": 10189
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a celebração do Protocolo de Apoio entre o Município e a União de Freguesias de Teixoso e Sarzedo. O protocolo prevê uma comparticipação financeira de 9720,00€ + IVA, a liquidar até ao final de 2021, para apoiar a requalificação da Calçada da Rua Nova, no Sarzedo.",
                   "theme": "Celebração do Protocolo de Apoio entre o Município e a União de Freguesias de Teixoso e Sarzedo",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -190,14 +190,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_11",
-                  "start": 10495,
-                  "end": 11219,
+                  "start": 10434,
+                  "end": 11140,
                   "subject": {
                     "text": "Aceitação de Doação de 74 desenhos de “Debuxo”",
-                    "start": 10495,
-                    "end": 10541
+                    "start": 10434,
+                    "end": 10480
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aceitou, por unanimidade, a doação de 74 desenhos de “Debuxo” por um cidadão. Foi, ainda, aprovada a celebração do respetivo auto de doação.",
                   "theme": "Doação de 74 desenhos de Debuxo por um cidadão",
                   "topics": [
                     "Culture"
@@ -205,14 +205,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_12",
-                  "start": 11282,
-                  "end": 12357,
+                  "start": 11203,
+                  "end": 12236,
                   "subject": {
                     "text": "Despacho exarado pelo Senhor Presidente da Câmara no dia 17.novembro.2021",
-                    "start": 11947,
-                    "end": 12020
+                    "start": 11841,
+                    "end": 11914
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal tomou conhecimento do despacho do Sr. Presidente da Câmara sobre o transporte urbano de passageiros. O despacho, datado de 2021-11-17, aprova as peças do procedimento e autoriza a abertura do concurso relativo ao transporte urbano de passageiros.",
                   "theme": "Tomada de conhecimento pela Câmara do despacho do Presidente sobre o transporte urbano de passageiros",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -220,14 +220,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_13",
-                  "start": 12359,
-                  "end": 13468,
+                  "start": 12238,
+                  "end": 13340,
                   "subject": {
                     "text": "concessão do uso privativo da sepultura",
-                    "start": 13159,
-                    "end": 13198
+                    "start": 13027,
+                    "end": 13066
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a concessão do uso privativo de sepultura a um cidadão, mediante o pagamento de 5713,00€. Foi, ainda, deliberada a emissão do respetivo alvará de concessão.",
                   "theme": "Concessão do uso privativo de sepultura a um cidadão",
                   "topics": [
                     "General Administration, Finance, and Human Resources"
@@ -235,14 +235,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_14",
-                  "start": 13512,
-                  "end": 15166,
+                  "start": 13384,
+                  "end": 15038,
                   "subject": {
                     "text": "celebração do Protocolo de Colaboração e Apoio entre o Município da Covilhã e a CIMBSE – Comunidade Intermunicipal das Beiras e Serra da Estrela",
-                    "start": 14735,
-                    "end": 14879
+                    "start": 14607,
+                    "end": 14751
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, a celebração do Protocolo de Colaboração e Apoio entre o Município e a CIMBSE – Comunidade Intermunicipal das Beiras e Serra da Estrela. O protocolo visa apoiar despesas relativas às compensações de obrigação de serviço público, através de uma comparticipação financeira de 275142,23€. O Sr. Presidente da Câmara esclareceu que o valor corresponde à comparticipação municipal nos transportes interurbanos essenciais para o ano em curso.",
                   "theme": "Celebração do Protocolo de Colaboração e Apoio entre o Município e a CIMBSE",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -251,14 +251,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_15",
-                  "start": 15168,
-                  "end": 18156,
+                  "start": 15040,
+                  "end": 18003,
                   "subject": {
                     "text": "cálculo n.º 1 provisório de revisão de preços da Empreitada de Obras do Caminho do Porsim",
-                    "start": 17833,
-                    "end": 17922
+                    "start": 17680,
+                    "end": 17769
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, o cálculo provisório da revisão de preços da empreitada do Caminho do Porsim. O Sr. Vereador Jorge Humberto Martins Simões referiu que os Vereadores da Oposição gostariam de votar favoravelmente esta revisão de preços e a sua receção provisória, dado não terem existido trabalhos a mais. No entanto, explicou que, após a receção de fotografias que mostram desgaste na base do pavimento causado pela drenagem da água, verificou-se que o pavimento betuminoso ficou solto e em pé, podendo representar perigo numa faixa estreita. Por esse motivo, considerou mais difícil votar a favor. O Diretor do Departamento de Obras e Planeamento esclareceu que a situação se enquadra no período de garantia da obra, iniciado após a receção provisória, e que eventuais problemas serão tratados se forem da responsabilidade do empreiteiro. O cálculo provisório n.º 1, relativo aos trabalhos de pavimentação, sinalização e guardas de segurança, foi aprovado no valor de 0,00€, conforme o modelo contratual e o plano de pagamento em vigor.",
                   "theme": "Cálculo provisório da revisão de preços da empreitada do Caminho do Porsim",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -267,14 +267,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_16",
-                  "start": 18179,
-                  "end": 19230,
+                  "start": 18026,
+                  "end": 19042,
                   "subject": {
-                    "text": "auto de receção provisória dos trabalhos da Empreitada de Obras do Caminho do Porsim ",
-                    "start": 19047,
-                    "end": 19132
+                    "text": "auto de receção provisória dos trabalhos da Empreitada de Obras do Caminho do Porsim",
+                    "start": 18859,
+                    "end": 18943
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, a homologação do auto de receção provisória da empreitada do Caminho do Porsim. Foi homologado o auto relativo à empreitada de pavimentação, sinalização horizontal e vertical e colocação de guardas de segurança.",
                   "theme": "Homologação do auto de receção provisória da empreitada do Caminho do Porsim",
                   "topics": [
                     "Public Works"
@@ -282,14 +282,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_17",
-                  "start": 19232,
-                  "end": 20134,
+                  "start": 19044,
+                  "end": 19917,
                   "subject": {
                     "text": "auto de receção provisória dos trabalhos da Empreitada de Obras de Reabilitação dos Edifícios de Habitação Social da Quinta da Alâmpada",
-                    "start": 19953,
-                    "end": 20088
+                    "start": 19736,
+                    "end": 19871
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a homologação do auto de receção provisória da empreitada da Quinta da Alâmpada. Foi homologado o auto relativo à empreitada de reabilitação dos edifícios de habitação social da Quinta da Alâmpada (Lotes 24 a 28), no âmbito do projeto de eficiência energética.",
                   "theme": "Homologação do auto de receção provisória da empreitada da Quinta da Alâmpada",
                   "topics": [
                     "Public Works"
@@ -297,14 +297,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_18",
-                  "start": 20150,
-                  "end": 21176,
+                  "start": 19933,
+                  "end": 20924,
                   "subject": {
                     "text": "conta final da Empreitada de Obras do Caminho do Porsim",
-                    "start": 21022,
-                    "end": 21077
+                    "start": 20770,
+                    "end": 20825
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, a homologação da conta final da empreitada do Caminho do Porsim. Foi aprovada e homologada a conta final referente à empreitada de pavimentação, sinalização horizontal e vertical e colocação de guardas de segurança.",
                   "theme": "Homologação da conta final da empreitada do Caminho do Porsim",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -313,14 +313,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_19",
-                  "start": 21178,
-                  "end": 22160,
+                  "start": 20926,
+                  "end": 21886,
                   "subject": {
                     "text": "aditamento à conta final da Empreitada de Obras de Reabilitação de Edifício para Instalação do Centro de Inclusão Social da Covilhã",
-                    "start": 22028,
-                    "end": 22159
+                    "start": 21754,
+                    "end": 21885
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por maioria, com três abstenções, o aditamento à conta final da empreitada do Centro de Inclusão Social da Covilhã. Foi aprovada e homologada a alteração à conta final da empreitada de reabilitação do edifício destinado à instalação do Centro de Inclusão Social da Covilhã.",
                   "theme": "Aditamento à conta final da empreitada do CIS da Covilhã",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -330,14 +330,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_20",
-                  "start": 22187,
-                  "end": 23277,
+                  "start": 21913,
+                  "end": 23003,
                   "subject": {
                     "text": "ordenamento do trânsito na Rua Fonte do Fundo - Teixoso",
-                    "start": 22353,
-                    "end": 22408
+                    "start": 22079,
+                    "end": 22134
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o ordenamento do trânsito na Rua Fonte do Fundo, Teixoso. Foi deliberada a colocação de sinalização horizontal M20 (bandas cromáticas) para alertar os condutores para a necessidade de reduzir a velocidade, complementada com sinalização vertical de perigo A16A (passagem de peões) junto à passadeira existente. Os serviços municipais foram encarregados de proceder em conformidade.",
                   "theme": "Ordenamento do trânsito na Rua Fonte do Fundo, Teixoso",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -345,14 +345,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_21",
-                  "start": 23279,
-                  "end": 24113,
+                  "start": 23005,
+                  "end": 23839,
                   "subject": {
                     "text": "ordenamento do estacionamento na Rua do Lameirão – União de Freguesias de Cantar-Galo e Vila do Carvalho",
-                    "start": 23488,
-                    "end": 23592
+                    "start": 23214,
+                    "end": 23318
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o ordenamento do estacionamento na Rua do Lameirão. Foi deliberada a reconversão do lugar de estacionamento público para pessoa com deficiência em lugar de estacionamento público sem restrições. Os serviços municipais foram encarregados de proceder em conformidade.",
                   "theme": "Ordenamento do estacionamento na Rua do Lameirão",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -360,14 +360,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_22",
-                  "start": 24115,
-                  "end": 26565,
+                  "start": 23841,
+                  "end": 26291,
                   "subject": {
                     "text": "ordenamento do trânsito nas Urbanizações: Claraboia, Pera Longa e da Bela Vista",
-                    "start": 24304,
-                    "end": 24383
+                    "start": 24030,
+                    "end": 24109
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o ordenamento do trânsito nas Urbanizações de Claraboia, Pera Longa e da Bela Vista. Foi deliberada a criação de 10 novas paragens de autocarros — uma na Claraboia, uma na Pera Longa e oito ao longo do Eixo TCT —, devidamente sinalizadas com placas H20A. Também foi aprovada a instalação de duas novas passadeiras: uma junto à urbanização da Bela Vista e outra no acesso ao Loteamento do Polito de Baixo, com sinalização horizontal (M11) e vertical (H7 e A16A), bem como marcas rodoviárias M20 (bandas cromáticas) de alerta para redução de velocidade. Os serviços municipais foram encarregados de proceder em conformidade.",
                   "theme": "Ordenamento do trânsito nas Urbanizações de Claraboia, Pera Longa e da Bela Vista",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -375,14 +375,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_23",
-                  "start": 26567,
-                  "end": 29080,
+                  "start": 26293,
+                  "end": 28806,
                   "subject": {
                     "text": "ordenamento do estacionamento junto à pousada da Juventude – Penhas da Saúde",
-                    "start": 26743,
-                    "end": 26819
+                    "start": 26469,
+                    "end": 26545
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o ordenamento do estacionamento junto à pousada da Juventude das Penhas da Saúde. Foi deliberada a criação de 20 lugares de estacionamento, mais um lugar reservado a pessoas com mobilidade reduzida. Além das marcações no pavimento, será aplicada a marca rodoviária M17 (raia oblíqua) e colocada sinalização vertical para ordenar a circulação no parque, incluindo os sinais G1 (zona de estacionamento autorizado), H1A (estacionamento autorizado) com adicional modelo 11d, H3 (trânsito de sentido único), dois C1 (sentido proibido) e um B2 (paragem obrigatória). Os serviços municipais foram encarregados de proceder em conformidade.",
                   "theme": "Ordenamento do estacionamento junto à pousada da Juventude das Penhas da Saúde",
                   "topics": [
                     "Traffic, Transport, and Communications"
@@ -390,14 +390,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_24",
-                  "start": 29082,
-                  "end": 30043,
+                  "start": 28808,
+                  "end": 29738,
                   "subject": {
                     "text": "ampliação da rede de iluminação pública na Rua Direita 64 PT - Casegas",
-                    "start": 29722,
-                    "end": 29792
+                    "start": 29417,
+                    "end": 29487
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a ampliação da iluminação pública na Rua Direita 64 PT, Casegas. Foi autorizada a ampliação da rede, aprovado o orçamento apresentado pela E-Redes  e autorizada a despesa no valor de 186,26€, incluindo o consumo futuro de energia elétrica decorrente do funcionamento da nova iluminação pública.",
                   "theme": "Ampliação da iluminação pública na Rua Direita 64 PT, Casegas",
                   "topics": [
                     "Energy and Telecommunications",
@@ -406,14 +406,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_25",
-                  "start": 30109,
-                  "end": 30539,
+                  "start": 29804,
+                  "end": 30234,
                   "subject": {
                     "text": "integração da Covilhã na Rede de Cidades Criativas da UNESNO, na área do design",
-                    "start": 30429,
-                    "end": 30508
+                    "start": 30124,
+                    "end": 30203
                   },
-                  "summary": null,
+                  "summary": "Câmara Municipal tomou conhecimento da integração da Covilhã na Rede de Cidades Criativas – UNESCO, na área do Design.",
                   "theme": "Tomada de conhecimento pela Câmara da integração da Covilhã na Rede de Cidades Criativas - UNESCO",
                   "topics": [
                     "Heritage",
@@ -423,14 +423,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_26",
-                  "start": 30541,
-                  "end": 33132,
+                  "start": 30236,
+                  "end": 32860,
                   "subject": {
                     "text": "Constituição da Comissão de Toponímia - mandato 2021/2025",
-                    "start": 30541,
-                    "end": 30598
+                    "start": 30236,
+                    "end": 30293
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a constituição da Comissão de Toponímia para 2021/2025. A Comissão integra: o Sr. Presidente da Câmara Municipal ou seu representante; os Srs. Vereadores responsáveis pelas áreas de toponímia e numeração de edifícios; os Dirigentes municipais com competência nesta área; um cidadão com formação nas áreas de História, Filologia e/ou Arqueologia; um representante da Assembleia Municipal, a designar na próxima sessão da Assembleia; o Sr. Presidente da Junta de Freguesia correspondente aos topónimos em análise, sem direito a voto. Mais deliberou que a presente deliberação fosse remetida à Assembleia Municipal para designação do seu representante na Comissão de Toponímia.",
                   "theme": "Constituição da Comissão de Toponímia para 2021/2025",
                   "topics": [
                     "Traffic, Transport, and Communications",
@@ -439,14 +439,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_27",
-                  "start": 33165,
-                  "end": 34070,
+                  "start": 32893,
+                  "end": 33724,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 33384,
-                    "end": 33417
+                    "start": 33104,
+                    "end": 33137
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -454,14 +454,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_28",
-                  "start": 34072,
-                  "end": 34988,
+                  "start": 33726,
+                  "end": 34621,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 34292,
-                    "end": 34325
+                    "start": 33993,
+                    "end": 34026
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -469,14 +469,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_29",
-                  "start": 34990,
-                  "end": 35922,
+                  "start": 34623,
+                  "end": 35496,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 35210,
-                    "end": 35243
+                    "start": 34876,
+                    "end": 34909
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -484,14 +484,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_30",
-                  "start": 35924,
-                  "end": 36876,
+                  "start": 35498,
+                  "end": 36335,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 36143,
-                    "end": 36176
+                    "start": 35716,
+                    "end": 35749
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -499,14 +499,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_31",
-                  "start": 36878,
-                  "end": 37675,
+                  "start": 36337,
+                  "end": 37003,
                   "subject": {
                     "text": "habitação municipal",
-                    "start": 37539,
-                    "end": 37558
+                    "start": 36919,
+                    "end": 36938
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -514,14 +514,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_32",
-                  "start": 37677,
-                  "end": 38637,
+                  "start": 37005,
+                  "end": 37804,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 37897,
-                    "end": 37930
+                    "start": 37207,
+                    "end": 37240
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -529,14 +529,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_33",
-                  "start": 38639,
-                  "end": 39545,
+                  "start": 37806,
+                  "end": 38634,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 38859,
-                    "end": 38892
+                    "start": 38012,
+                    "end": 38045
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -544,14 +544,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_34",
-                  "start": 39547,
-                  "end": 40461,
+                  "start": 38636,
+                  "end": 39495,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 39767,
-                    "end": 39800
+                    "start": 38900,
+                    "end": 38933
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -559,14 +559,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_35",
-                  "start": 40463,
-                  "end": 41389,
+                  "start": 39497,
+                  "end": 40332,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 40683,
-                    "end": 40716
+                    "start": 39695,
+                    "end": 39728
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -574,14 +574,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_36",
-                  "start": 41391,
-                  "end": 42302,
+                  "start": 40334,
+                  "end": 41163,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 41612,
-                    "end": 41645
+                    "start": 40542,
+                    "end": 40575
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Social Action",
@@ -590,14 +590,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_37",
-                  "start": 42304,
-                  "end": 43245,
+                  "start": 41165,
+                  "end": 41997,
                   "subject": {
                     "text": "atribuição de habitação municipal",
-                    "start": 42525,
-                    "end": 42558
+                    "start": 41373,
+                    "end": 41406
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a atribuição de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Atribuição de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -605,14 +605,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_38",
-                  "start": 43247,
-                  "end": 44376,
+                  "start": 41999,
+                  "end": 42935,
                   "subject": {
                     "text": "transferência de habitação",
-                    "start": 43469,
-                    "end": 43495
+                    "start": 42194,
+                    "end": 42220
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal deliberou, por unanimidade, a autorização da transferência de habitação municipal a um cidadão. Foi, ainda, determinado que os serviços competentes procedessem à celebração do respetivo contrato.",
                   "theme": "Autorização da transferência de habitação municipal a um cidadão",
                   "topics": [
                     "Housing"
@@ -620,14 +620,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_39",
-                  "start": 44378,
-                  "end": 45675,
+                  "start": 42937,
+                  "end": 44234,
                   "subject": {
                     "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e a Associação Cultural Desportiva Paulense - Banda Filarmónica do Paul",
-                    "start": 44998,
-                    "end": 45131
+                    "start": 43557,
+                    "end": 43690
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a celebração do Protocolo de Apoio entre o Município e a Associação Cultural Desportiva Paulense – Banda Filarmónica do Paul. O protocolo prevê uma comparticipação financeira de 2500,00€, destinada a apoiar as atividades desenvolvidas no presente ano. O subsídio tem caráter extraordinário. Os pagamentos serão efetuados mediante requerimento e apresentação dos comprovativos de despesa.",
                   "theme": "Celebração do Protocolo de Apoio entre o Município e a Banda Filarmónica do Paul",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -636,14 +636,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_40",
-                  "start": 45677,
-                  "end": 46634,
+                  "start": 44236,
+                  "end": 45193,
                   "subject": {
                     "text": "celebração do Protocolo de Apoio entre o Município da Covilhã e o Carvalhense Futebol Clube",
-                    "start": 46211,
-                    "end": 46302
+                    "start": 44770,
+                    "end": 44861
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a celebração do Protocolo de Apoio entre o Município e o Carvalhense Futebol Clube. O protocolo estabelece uma comparticipação financeira de 2500,00€, destinada a apoiar a concretização de um projeto desportivo. Os pagamentos serão efetuados mediante requerimento e apresentação dos respetivos comprovativos de despesa.",
                   "theme": "Celebração do Protocolo de Apoio entre o Município e o Carvalhense Futebol Clube",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -652,14 +652,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_41",
-                  "start": 46636,
-                  "end": 49367,
+                  "start": 45195,
+                  "end": 47926,
                   "subject": {
                     "text": "Aditamento ao Contrato Programa N.º 115762021P01, a celebrar entre o Município da Covilhã e o Penta Clube da Covilhã",
-                    "start": 47306,
-                    "end": 47422
+                    "start": 45865,
+                    "end": 45981
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o aditamento ao Contrato Programa entre o Município e o Penta Clube da Covilhã. O aditamento visa apoiar o clube na aquisição de equipamentos desportivos, através de uma comparticipação financeira de 3167,25€. O documento atualiza as cláusulas relativas ao objeto, fundamentação, montante de financiamento e modo de pagamento, bem como as disposições orçamentais e de execução, mantendo o período de vigência entre 1 de janeiro e 31 de dezembro de 2021, cessando três meses após a validação do relatório de atividades e contas.",
                   "theme": "Aditamento ao Contrato Programa entre o Município e o Penta Clube da Covilhã",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -668,14 +668,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_42",
-                  "start": 49369,
-                  "end": 52141,
+                  "start": 47928,
+                  "end": 50700,
                   "subject": {
                     "text": "Aditamento ao Contrato Programa N.º 13022021P01, a celebrar entre o Município da Covilhã e o Agrupamento 607 – Corpo Nacional de Escutas",
-                    "start": 50078,
-                    "end": 50214
+                    "start": 48637,
+                    "end": 48773
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o aditamento ao Contrato Programa entre o Município e o Agrupamento 607 do Corpo Nacional de Escutas (CNE). O aditamento visa apoiar o agrupamento na aquisição de três tendas de campismo, três fogareiros e uma corda de escalada, através de uma comparticipação financeira de 700,00€. O documento atualiza as cláusulas relativas ao objeto, fundamentação, financiamento e modo de pagamento, bem como as disposições orçamentais e de vigência, mantendo o período de execução entre 1 de janeiro e 31 de dezembro de 2021, cessando três meses após a validação do relatório de atividades e contas.",
                   "theme": "Aditamento ao Contrato Programa entre o Município e o Agrupamento 607 do CNE",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -684,14 +684,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_43",
-                  "start": 52143,
-                  "end": 54933,
+                  "start": 50702,
+                  "end": 53492,
                   "subject": {
                     "text": "Aditamento ao Contrato Programa N.º 25082021P01 entre o Município da Covilhã e a Associação “O Paul Cultural Desportivo”",
-                    "start": 52844,
-                    "end": 52964
+                    "start": 51403,
+                    "end": 51523
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o aditamento ao Contrato Programa entre o Município e a Associação “O Paul Cultural Desportivo”. O aditamento tem por objetivo apoiar a realização de obras de melhoramento no Complexo Desportivo da Reboleirada, através de uma comparticipação financeira de 2959,73€. O documento atualiza as cláusulas relativas ao objeto, fundamentação, montante de financiamento, modo de pagamento e disposições orçamentais, mantendo o período de execução entre 1 de janeiro e 31 de dezembro de 2021, cessando três meses após a validação do relatório de atividades e contas.",
                   "theme": "Aditamento ao Contrato Programa entre o Município e a Associação \"O Paul Cultural Desportivo\"",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -701,14 +701,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_44",
-                  "start": 54935,
-                  "end": 56304,
+                  "start": 53494,
+                  "end": 54863,
                   "subject": {
                     "text": "Aditamento ao Contrato Programa N.º 620P202003 entre o Município da Covilhã e a Associação Recreativa Musical Covilhanense – Banda da Covilhã",
-                    "start": 55662,
-                    "end": 55803
+                    "start": 54221,
+                    "end": 54362
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, o aditamento ao Contrato Programa entre o Município e a Banda da Covilhã. O aditamento altera as cláusulas relativas às fases de financiamento e à vigência, determinando que o último pedido de pagamento deve ser submetido até 31 de dezembro de 2022 e que o contrato é válido entre 1 de janeiro e 31 de dezembro de 2022.",
                   "theme": "Aditamento ao Contrato Programa entre o Município e a Banda da Covilhã",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
@@ -717,14 +717,14 @@
                 },
                 {
                   "subject_id": "Covilha_cm_004-A_2021-12-03_45",
-                  "start": 56306,
-                  "end": 58075,
+                  "start": 54865,
+                  "end": 56634,
                   "subject": {
                     "text": "isenção do pagamento das taxas municipais",
-                    "start": 57601,
-                    "end": 57642
+                    "start": 56160,
+                    "end": 56201
                   },
-                  "summary": null,
+                  "summary": "A Câmara Municipal aprovou, por unanimidade, a isenção do pagamento de taxas municipais e compensações pedida pelo CCD – Carvalhense Futebol Clube. Foi concedida a isenção do pagamento das taxas municipais no valor de 993,20€ e das compensações no valor de 18868,3€, relativas à reconstrução da sede social do clube, na União de Freguesias de Cantar-Galo e Vila do Carvalho.",
                   "theme": "Isenção do pagamento de taxas municipais e compensações pedida pelo CCD",
                   "topics": [
                     "General Administration, Finance, and Human Resources",
